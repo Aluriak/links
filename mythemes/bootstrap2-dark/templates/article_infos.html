@@ -1,0 +1,15 @@
+<h1><a href="{{ article.author }}">{{ article.title }}</a></h1>
+<br/>
+<abbr class="published" title="{{ article.date.isoformat() }}">
+        <i class="fa fa-calendar"></i>
+        {{ article.locale_date }}
+</abbr>
+
+&nbsp; &nbsp; <a href="{{ SITEURL }}/{{ article.slug }}">permalink</a>
+
+<br/>
+<br/>
+<br/>
+
+{{ article.content }}
+<hr>

@@ -1,0 +1,65 @@
+<ul class="nav nav-list">
+
+
+    <!--Blog pages-->
+    {% if BLOG_LINKS %}
+    <li class="nav-header"><h4><i class="fa fa-{{BLOG_LINKS[1]}} fa-large fa-fw"></i>&nbsp;{{BLOG_LINKS[0]}}/</h4></li>
+        {% for icon, name, link in BLOG_LINKS[2] %}
+            <li><a href="{{ link }}"><i class="fa fa-{{ icon }} fa-fw"></i>&nbsp;{{ name }}</a></li>
+        {% endfor %}
+    {% endif %}
+
+
+
+    <!--RSS feed-->
+    {% if FEED_RSS %}
+        <li><a href="{{ SITEURL }}/{{ FEED_RSS }}"><i class="fa fa-rss fa-fw"></i>&nbsp;rss</a></li>
+    {% endif %}
+    {% if FEED_ATOM %}
+        <li><a href="{{ SITEURL }}/{{ FEED_ATOM }}"><i class="fa fa-rss fa-fw"></i>&nbsp;atom</a></li>
+    {% endif %}
+
+
+
+    <!--Personal related web locations-->
+    {% if LINKS %}
+    <li class="nav-header"><h4><i class="fa fa-{{LINKS[1]}} fa-large fa-fw"></i>&nbsp;{{LINKS[0]}}/</h4></li>
+        {% for icon, name, link in LINKS[2] %}
+            <li><a href="{{ link }}"><i class="fa fa-{{ icon }} fa-fw"></i>&nbsp;{{ name }}</a></li>
+        {% endfor %}
+    {% endif %}
+
+
+    {% if False %}
+    <li class="nav-header"><h4><i class="fa fa-tags icon-large fa-fw"></i>&nbsp;annotations/</h4></li>
+        <!--<ul class="tagcloud" list-style=none>-->
+            {% for tag in tag_cloud %}
+                <li class="tag-{{ tag.1 }}">
+                    <a href="{{ SITEURL }}/{{ tag.0.url }}">
+                        <i class="fa fa-tag fa-fw"></i>&nbsp;{{ tag.0 }}
+                        {% if TAG_CLOUD_BADGE %}
+                            <!--<span class="badge">{{ tag.2 }}</span>-->
+                            <strong>({{ tag.2 }})</strong>
+                        {% endif %}
+                    </a>
+                </li>
+            {% endfor %}
+        <!--</ul>-->
+    {% endif %}
+
+
+    <!--Other web locations-->
+    {% if OUTER_WEB %}
+    <li class="nav-header"><h4><i class="fa fa-{{OUTER_WEB[1]}} fa-large fa-fw"></i>&nbsp;{{OUTER_WEB[0]}}/</h4></li>
+        {% for icon, name, link in OUTER_WEB[2] %}
+            <li><a href="{{ link }}"><i class="fa fa-{{ icon }} fa-fw"></i>&nbsp;{{ name }}</a></li>
+        {% endfor %}
+    {% endif %}
+
+
+
+
+{% if SIDEBAR_CUSTOM %}
+    {{ SIDEBAR_CUSTOM }}
+{% endif %}
+</ul>
