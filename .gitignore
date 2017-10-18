@@ -1,3 +1,4 @@
+*.pyc
 *.vim
 writing/
 __pycache__/
@@ -9,5 +10,4 @@ pelican-plugins/
 srv.pid
 themes/
 venv/
-content/
 Makefile

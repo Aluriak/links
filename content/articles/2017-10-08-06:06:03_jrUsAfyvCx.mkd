@@ -1,0 +1,13 @@
+Title: A gentle introduction to Answer Set Programming
+Date: 2017-10-08-06:06:03
+Tags: 
+Authors: https://cjamcl.com/blog/a-gentle-introduction-to-asp/
+Slug: jrUsAfyvCx
+Lang: fr
+status: published
+
+ASP est un langage logique qui ressemble beaucoup à Prolog,
+mais qui est vraiment très différent.
+
+Ce tuto me semble vraiment accessible pour avoir une idée
+des principes de base du langage.

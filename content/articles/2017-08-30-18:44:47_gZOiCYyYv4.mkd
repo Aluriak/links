@@ -1,0 +1,9 @@
+Title: zeppelin
+Date: 2017-08-30-18:44:47
+Tags: 
+Authors: http://zeppelin.apache.org/
+Slug: gZOiCYyYv4
+Lang: fr
+status: published
+
+An alternative to [jupyter](http://jupyter.org/).

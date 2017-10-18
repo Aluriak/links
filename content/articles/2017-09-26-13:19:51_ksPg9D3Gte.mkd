@@ -1,0 +1,22 @@
+Title: SIGGRAPH: Technical papers trailer
+Date: 2017-09-26-13:19:51
+Tags: 
+Authors: https://www.youtube.com/results?search_query=SIGGRAPH+Technical+Papers+Trailer
+Slug: ksPg9D3Gte
+Lang: fr
+status: published
+
+SIGGRAPH est [une grosse conf en informatique/graphique](https://fr.wikipedia.org/wiki/SIGGRAPH).
+
+Chaque année, avant la conf, les organisateurs teasent la communauté avec une vidéo de preview des papiers qui vont y être publiés.
+Les trailers sont super sympa, et introduisent de nouvelles techniques souvent assez impressionnantes.
+
+Mention spéciale au [simulateur de grimpeur](https://www.youtube.com/watch?v=h5dQ4eC8JRs)
+et au [découpeur arbitraire de déformables arbitraires](https://www.youtube.com/watch?v=ucRVbAwY_gY).
+
+Beaucoup de papiers sont présentés dans des vidéos plus longues,
+par exemple [celui-ci](https://www.youtube.com/watch?v=Ul0Gilv5wvY)
+à propos du mouvement d'un personnage calculé avec un réseau de neurone.
+
+La présentation des [posters de 2017](https://www.youtube.com/watch?v=kTghnbwfLjA)
+est franchement badass aussi :)

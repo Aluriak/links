@@ -1,0 +1,13 @@
+Title: Pycon'14: generator, the new frontier
+Date: 2017-09-13-16:23:24
+Tags: 
+Authors: https://www.youtube.com/watch?v=D1twn9kLmYg
+Slug: 7GpB3fgryw
+Lang: fr
+status: published
+
+Un talk super intéressant, et très formateur
+si vous ne connaissez pas les générateurs.
+
+Aujourd'hui, *the new frontier*, ce serais plutôt les [coroutines](https://docs.python.org/3.6/library/asyncio-task.html)
+qui sont sorties avec la 3.4 et l'intégration dans la librairie standard de la lib `asyncio`.

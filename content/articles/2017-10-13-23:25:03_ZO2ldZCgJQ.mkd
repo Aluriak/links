@@ -1,0 +1,12 @@
+Title: How to C in 2016 (and its response)
+Date: 2017-10-13-23:25:03
+Tags: 
+Authors: https://matt.sh/howto-c
+Slug: ZO2ldZCgJQ
+Lang: fr
+status: published
+
+Some indications about how to code in modern C.
+The main indication that changed my life is `stdint.h` and the explicit type sizes `uint64_t` and its friends.
+
+[here is a response to that article that was widely shared](https://github.com/Keith-S-Thompson/how-to-c-response).

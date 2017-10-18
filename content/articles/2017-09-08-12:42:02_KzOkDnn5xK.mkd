@@ -1,0 +1,13 @@
+Title: Get the current or all Firefox tab urls in Bash (and Python)
+Date: 2017-09-08-12:42:02
+Tags: 
+Authors: https://raymii.org/s/snippets/Get_the_current_or_all_Firefox_tab_urls_in_Bash.html
+Slug: KzOkDnn5xK
+Lang: fr
+status: published
+
+Avec un peu de bash, de python et de connaissances sur la manière de fonctionner du browser,
+on arrive à faire des trucs rigolo.
+
+Il a néanmoins fallut que firefox soit éteint pour avoir accès au fichier `sessionstore.js`.
+(mais il y a les backups comme `sessionstore-1.js` qui sont toujours là)

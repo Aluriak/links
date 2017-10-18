@@ -1,0 +1,10 @@
+Title: This page is powered with <em>pelican</em>
+Date: 2017-08-29-17:50:12
+Tags: 
+Authors: https://github.com/Aluriak/links
+Slug: pdliTFHlpU
+Lang: fr
+status: published
+
+Once powered by [Shaarli](https://www.shaarli.fr/redirect.php), then [shaarpli](https://github.com/Aluriak/shaarpli),
+i finally found hacking upon [pelican](https://blog.getpelican.com/) more simple.

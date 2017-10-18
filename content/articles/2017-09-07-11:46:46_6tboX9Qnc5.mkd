@@ -1,0 +1,10 @@
+Title: A notification system for tiling window manager
+Date: 2017-09-07-11:46:46
+Tags: 
+Authors: https://github.com/sboli/twmn
+Slug: 6tboX9Qnc5
+Lang: fr
+status: published
+
+Pas (encore) testé, mais ça semble beaucoup moins envahissant que les bulles utilisées pour le moment.
+Il reste plus qu'à configurer les logiciels qui utilisent notify-send pour qu'ils utilisent twmn à la place.

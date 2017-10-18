@@ -1,0 +1,12 @@
+Title: Haskell as an antispam engine
+Date: 2017-08-31-19:46:12
+Tags: 
+Authors: https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/
+Slug: WgL5NNb6zR
+Lang: fr
+status: published
+
+Facebook's antispam engine is coded in haskell, providing efficiency in production environment and easy testing of rules defining content as spam or not.
+
+This post was linked by a [Computer Science Educator stack](https://cseducators.stackexchange.com/questions/3372/how-to-answer-functional-programming-is-useless),
+about *How to answer "functional programming is useless" ?*, which is itself a great question.

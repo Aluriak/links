@@ -1,0 +1,27 @@
+Title: A useful but hard to find package for unix users
+Date: 2017-09-04-18:00:56
+Tags: 
+Authors: https://pypi.python.org/pypi/eg
+Slug: 9rUwhZuDjY
+Lang: fr
+status: published
+
+`alias woman=eg` made my most easy-to-remember term command. I typed it only one time,
+then i quickly forgot about eg, and used `woman` each time `man` was not helping.
+
+Recently, on a brand new system, `woman` raised an error about a non-found `eg`.
+*What the hell is eg ?*
+
+Well, `eg` is hard to find. I searched with my distribution package manager, it was not really useful.
+Then i remembered that eg *could be* a python package, so i [searched for it on pypi](https://pypi.python.org/pypi?:action=search&term=eg&submit=search).
+
+Scheisse.
+
+I finally tried the universal fix: put eg in the pypi URL directly.
+
+3-letters are IMHO the bare minimum to name things (git, sed, cut and ack for instance).
+With only 2 letters, you have most of the time way to much words that contains them,
+for instance eg or [ag](https://github.com/ggreer/the_silver_searcher) (btw, this last use *the silver searcher* as preferred name, which make it more easily searchable).
+
+Program names should not be given with efficiency/size in mind. It's the role of aliases, that each user will define,
+to provides efficient keystroke.

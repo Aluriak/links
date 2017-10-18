@@ -1,0 +1,9 @@
+Title: Designing a Tree Diff Algorithm Using Dynamic Programming and A*
+Date: 2017-09-05-23:54:36
+Tags: 
+Authors: http://thume.ca/2017/06/17/tree-diffing/
+Slug: fhyGIpof4O
+Lang: fr
+status: published
+
+Une chouette histoire de conception d'algorithme pour résoudre un problème pas si trivial que ça

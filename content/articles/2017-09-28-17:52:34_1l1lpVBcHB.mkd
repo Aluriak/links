@@ -1,0 +1,12 @@
+Title: Une librairie pour l'affichage de gros graphes en Python
+Date: 2017-09-28-17:52:34
+Tags: 
+Authors: https://github.com/graphistry/pygraphistry
+Slug: 1l1lpVBcHB
+Lang: fr
+status: published
+
+Rien à voir avec networkx: il s'agit juste d'affichage.
+
+D'affichage de graphes avec plusieurs centaines de milliers d'objets quand même.
+Je suis impressionné !

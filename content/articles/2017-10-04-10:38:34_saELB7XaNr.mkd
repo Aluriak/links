@@ -1,0 +1,9 @@
+Title: The evolution of language, by aiju
+Date: 2017-10-04-10:38:34
+Tags: 
+Authors: http://harmful.cat-v.org/software/xml/the_evolution_of_language
+Slug: saELB7XaNr
+Lang: fr
+status: published
+
+L'Évolution va vers la complexité, après tout (comme on disait dans les années 80).

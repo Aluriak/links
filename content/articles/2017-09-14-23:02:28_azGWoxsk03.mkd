@@ -1,0 +1,14 @@
+Title: Listen to Wikipédia
+Date: 2017-09-14-23:02:28
+Tags: 
+Authors: http://listen.hatnote.com/
+Slug: azGWoxsk03
+Lang: fr
+status: published
+
+À chaque modification, une note est jouée, d'autant plus grave que la modification est grande.
+Il y a aussi un son différent lorsqu'un nouvel utilisateur est enregistré.
+
+La musique qui en ressort est franchement sympa. Bonus: l'interface est parfaite
+pour chasser la vandalisation. (on entend littéralement les petites modifications,
+et quand une adresse IP en est l'origine (et non un compte enregistré), c'est souvent du vandalisme)

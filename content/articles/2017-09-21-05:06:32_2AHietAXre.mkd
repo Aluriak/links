@@ -1,0 +1,30 @@
+Title: The art of over-engineering your side projects
+Date: 2017-09-21-05:06:32
+Tags: 
+Authors: https://elsyms.com/the-art-of-over-engineering-your-side-projects/
+Slug: 2AHietAXre
+Lang: fr
+status: published
+
+Ce billet est d'une grande pertinence.
+
+J'ai eu une période d'un an d'improductivité niveau projets perso précisément à cause de ces problèmes.
+
+Et puis je suis allé à la pycon de rennes en 2016, où s'est tenue
+[un talk deguillaume Ayoub](https://www.pycon.fr/2016/pages/programme.html#Ma%20premi%C3%A8re%20appli%20en%2030%20minutes%20(et%20un%20peu%20de%20courage))
+(malheureusement non diffusée sur le net, c'est *vraiment* dommage),
+et ça m'a beaucoup aidé, en donnant des idées très proches du billet
+en lien : il faut faire simple.
+
+Pas d'interface compliquée au début, juste montrer ce qui doit être fait.
+La gestion de projet et le packaging sont des développements qui doivent
+intervenir *après* qu'un code soit prouvé utile, pas avant.
+
+Ça semble évident, mais c'est vrai qu'on l'oublie vite,
+pris dans la magie de ces outils dont on arrive plus à se passer,
+tellement leur apport est grand.
+
+Depuis, j'ai retrouvé mon efficacité en matière de projet persos,
+qui pour beaucoup n'ont pas besoin de dépasser la poc.
+
+En un mot, faites des pocs, pas des productions.

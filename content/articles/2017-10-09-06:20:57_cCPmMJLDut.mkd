@@ -1,0 +1,10 @@
+Title: Mars Society: Exploring Mars in VR
+Date: 2017-10-09-06:20:57
+Tags: 
+Authors: https://www.youtube.com/watch?v=0wk21IiJ43A
+Slug: cCPmMJLDut
+Lang: fr
+status: published
+
+Hewlett-Packard talk about their software allowing one to explore Mars using Virtual Reality.
+Their software is available on [steam](http://store.steampowered.com/app/510850/Mars_2030/)
