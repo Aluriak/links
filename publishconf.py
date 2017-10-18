@@ -8,7 +8,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://lucas.bourneuf.net'
+SITEURL = 'https://lucas.bourneuf.net/links'
 RELATIVE_URLS = False
 FEED_ATOM = 'feeds/atom.xml'
 DELETE_OUTPUT_DIRECTORY = False
