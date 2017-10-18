@@ -104,8 +104,8 @@ LICENCE = 'WTFPL'  # LICENCE text, globally available
 ################################################################################
 # Blogroll:   (font awesome icon, diplayed name, link)
 BLOG_LINKS = 'Here', 'bars', (
-    ('link',    'all links', '/'),
-    ('th-list', 'archive',   '/archives.html'),
+    ('link',    'all links', '/links/'),
+    ('th-list', 'archive',   '/links/archives.html'),
 )
 LINKS = 'Links', 'external-link', (
     ('home',    'home',    SERVERURL + '/home'),
