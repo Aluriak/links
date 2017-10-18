@@ -1,5 +1,6 @@
 *.pyc
 *.vim
+*.csv
 writing/
 __pycache__/
 develop_server.sh
