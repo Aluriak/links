@@ -1,0 +1,11 @@
+Title: Probabilistic Programming and Bayesian Methods for Hackers
+Date: 2017-10-19-16:09:02
+Tags: 
+Authors: http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+Slug: UA7UYbuqCX
+Lang: fr
+status: published
+
+Un cours complet avec des exemples interactifs pour attaquer les
+probabilités bayésienne avec du python, et plus particulièrement
+la lib [PyMC](https://github.com/pymc-devs/pymc3).
