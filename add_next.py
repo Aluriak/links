@@ -62,7 +62,7 @@ def publish_link(url:str, title:str, description:str, tags:iter, date:str,
         html_title = html_title[:-len('</p>')]
 
     print(html_title)
-    with open(filename, 'w') as fd:
+    with open(filename, 'w', encoding='utf8') as fd:
         fd.write(mkd.format(
         title=html_title,
         slug=slug,
@@ -77,7 +77,7 @@ def publish_link(url:str, title:str, description:str, tags:iter, date:str,
 
 def extract_and_publish(method:Method=Method.First, use_date_field:bool=False):
     """Extract the next link, and publish it."""
-    with open(LINKS_TO_PUBLISH) as fd:
+    with open(LINKS_TO_PUBLISH, encoding='utf_8_sig') as fd:
         reader = csv.reader(fd, **CSV_PARAMS)
         links = tuple(reader)
     if len(links) == 0:
@@ -101,7 +101,7 @@ def extract_and_publish(method:Method=Method.First, use_date_field:bool=False):
     publish_link(url=link[2], title=link[0], description=link[1], tags=[],
                  date=current_time(publication_timestamp))
     # rebuild the topublish database
-    with open(LINKS_TO_PUBLISH, 'w') as fd:
+    with open(LINKS_TO_PUBLISH, 'w', encoding='utf_8_sig') as fd:
         writer = csv.writer(fd, **CSV_PARAMS)
         for link in links:
             writer.writerow(link)
