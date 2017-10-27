@@ -10,6 +10,8 @@ import random
 import argparse
 import markdown
 from enum import Enum
+import twitter as tw
+from secret_data import TWITTER_API_KEYS
 
 
 class Method(Enum):
@@ -62,6 +64,7 @@ def publish_link(url:str, title:str, description:str, tags:iter, date:str,
         html_title = html_title[:-len('</p>')]
 
     print(html_title)
+    push_on_tweeter(f'https//lucas.bourneuf.net/links/{slug}.html', title)
     with open(filename, 'w', encoding='utf8') as fd:
         fd.write(mkd.format(
         title=html_title,
@@ -124,6 +127,23 @@ def parse_cli():
                         default=False,
                         help="Use the fourth field in input file to determine publication date.")
     return parser.parse_args()
+
+
+def push_on_tweeter(url:str, title:str):
+    MAX_TWEET_SIZE, URL_SIZE, SEP_SIZE = 140, 23, 1
+    MAX_TITLE_SIZE = MAX_TWEET_SIZE - URL_SIZE - SEP_SIZE
+    title = title[:MAX_TITLE_SIZE]
+    base_tweet = f'{title} {url}'
+    print('Publish on tweeter…')
+    client = tw.Twitter(
+        auth=tw.OAuth(*TWITTER_API_KEYS)
+    )
+    try:
+        client.statuses.update(status=base_tweet)
+    except tw.api.TwitterHTTPError as err:
+        print('ERROR:', err)
+        with open('twitter_error', 'a') as fd:
+            fd.write('\n' + str(err) + '\n')
 
 
 if __name__ == '__main__':
