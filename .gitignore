@@ -12,3 +12,4 @@ srv.pid
 themes/
 venv/
 Makefile
+secret_data.py
