@@ -92,6 +92,8 @@
     <div class="container" style="margin: 'auto'">
       <div class="row">
         <div class="span7" id="content">
+          <a href="{{ SITEURL }}/index.html">{% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong> {% else %} {{ SITENAME }} {% endif %}</a>
+          <hr/>
             {% block content %}
             {% endblock %}
         </div><!--/span-->

@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+import addlink
 
 AUTHOR = 'lucas'
 SITENAME = 'lucas/links'
@@ -23,6 +24,9 @@ DEFAULT_METADATA = {
 }
 
 PIWIK = False  # not used as url holder, but uniquely as enable/disable piwik
+
+REMAINING_LINKS = sum(1 for link in addlink.remaining_links())
+SITESUBTITLE = '<em> One link per day for the next {}</em>'.format(REMAINING_LINKS)
 
 
 ################################################################################
