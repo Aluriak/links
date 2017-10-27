@@ -1,0 +1,10 @@
+Title: Statistics
+Date: 2017-10-27-17:50:12
+Tags: 
+Authors: lucas
+Slug: stats
+Lang: fr
+status: published
+
+Number of link published: {published_links}  
+Number of yet unpublished link: {remaining_links}  

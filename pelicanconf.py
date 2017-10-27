@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+import os
+from glob import glob
 import addlink
 
 AUTHOR = 'lucas'
@@ -26,7 +28,20 @@ DEFAULT_METADATA = {
 PIWIK = False  # not used as url holder, but uniquely as enable/disable piwik
 
 REMAINING_LINKS = sum(1 for link in addlink.remaining_links())
-SITESUBTITLE = '<em> One link per day for the next {}</em>'.format(REMAINING_LINKS)
+PUBLISHED_LINKS = len(glob('content/articles/*.mkd'))
+SITESUBTITLE = '<em> One link per day for the next {r}</em>'.format(p=PUBLISHED_LINKS, r=REMAINING_LINKS)
+
+# pages
+DISPLAY_PAGES_ON_MENU = False
+for page_template in glob('pages_template/*.mkd'):
+    page_name = os.path.basename(page_template)
+    page = 'content/pages/{}'.format(page_name)
+    with open(page, 'w') as ofd, open(page_template) as ifd:
+        ofd.write(ifd.read().format(
+            remaining_links=REMAINING_LINKS,
+            published_links=PUBLISHED_LINKS,
+        ))
+    print('Page {} generated.'.format(page_name))
 
 
 ################################################################################
@@ -108,8 +123,10 @@ LICENCE = 'WTFPL'  # LICENCE text, globally available
 ################################################################################
 # Blogroll:   (font awesome icon, diplayed name, link)
 BLOG_LINKS = 'Here', 'bars', (
-    ('link',    'all links', '/links/'),
-    ('th-list', 'archive',   '/links/archives.html'),
+    ('link',      'all links',   '/links/'),
+    ('question',  'random link', '/links/random.html'),
+    ('bar-chart', 'statistics',  '/links/pages/stats.html'),
+    ('th-list',   'archive',     '/links/archives.html'),
 )
 LINKS = 'Links', 'external-link', (
     ('home',    'home',    SERVERURL + '/home'),
@@ -147,8 +164,8 @@ SITEMAP = {
         'pages': 0.5
     },
     'changefreqs': {
-        'articles': 'monthly',
-        'indexes': 'monthly',
-        'pages': 'monthly'
+        'articles': 'daily',
+        'indexes': 'daily',
+        'pages': 'daily'
     }
 }
