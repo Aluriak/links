@@ -1,0 +1,26 @@
+Title: GDC: à propos de The Witcher 3
+Date: 2017-10-26-00:00:01
+Tags: 
+Authors: https://www.youtube.com/watch?v=chf3REzAjgI
+Slug: DnsW2h73Mj
+Lang: fr
+status: published
+
+The Witcher 3 est probablement le meilleur RPG auquel j'ai joué,
+incluant Deux Ex et KOTOR.
+
+Et, à la GDC (dont j'ai déjà parlé), régulièrement des programmeurs
+de CD Projekt Red s'y trouvent,
+et parlent de divers aspects de leur jeu phare.
+
+Voici donc une petite liste des vidéos à ce propos (dont mon préféré est en lien principal) :
+
+- [les dialogues](https://www.youtube.com/watch?v=chf3REzAjgI). C'est probablement le plus incroyable ; il y a une telle quantité de travail derrière, c'est époustouflant !
+- [la création du monde ouvert](https://www.youtube.com/watch?v=p8CMYD_5gE8), qui a impliqué la formalisation dudit monde en SQL. C'est une idée simple, efficace, et franchement élégante !
+- [l'économie dans le jeu](https://www.youtube.com/watch?v=2P82lz6z8FU)
+- [la création de Beauclair, la zone de la deuxième extension](https://www.youtube.com/watch?v=9vEfH9SJ9mY). Pour moi, la deuxième extension est probablement la plus aboutie de toutes les parties du jeu. Un jeu à lui tout seul, extrèmement beau et prenant.
+- [comment les musiques ont été conçues](http://www.gdcvault.com/play/1023012). En pdf ici, il semble exister un audio que je n'ai hélas pas trouvé…
+- À propos du premier jeu Witcher, et non le troisième : [turn great ideas into game feature](https://www.youtube.com/watch?v=moW8-MXjivs).
+
+Je pourrais faire une biblio entière sur la GDC,
+vu la [t](https://www.youtube.com/watch?v=EVGonAUUQ8c)[o](https://www.youtube.com/watch?v=8bW2pw9jEto)[n](https://www.youtube.com/watch?v=U4FNBMZsqrY)[n](https://www.youtube.com/watch?v=priaBvs441Y)[e](https://www.youtube.com/watch?v=9yydYjQ1GLg) [d](https://www.youtube.com/watch?v=HLWY7fCXUwE)[e](https://www.youtube.com/watch?v=W_okgL6HJX8) [c](https://www.youtube.com/watch?v=1nEJOkTjJqk)[o](https://www.youtube.com/watch?v=tR-9oXiytsk)[n](https://www.youtube.com/watch?v=65crLKNQR0E)[t](https://www.youtube.com/watch?v=C7307qRmlMI)[e](https://www.youtube.com/watch?v=hri6M1AAoSo)[n](https://www.youtube.com/watch?v=WumyfLEa6bU)[u](https://www.youtube.com/watch?v=FhKjv7CPUqw) qui s'y trouve…

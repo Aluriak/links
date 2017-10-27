@@ -1,0 +1,16 @@
+Title: It was a really formative piece of work, and i took a lot of inspiration from it.
+Date: 2017-10-24-00:00:01
+Tags: 
+Authors: https://www.youtube.com/watch?v=pLbmZT70rtA
+Slug: gCQr5el24z
+Lang: fr
+status: published
+
+Le créateur de The Stanley Parable fait une conférence au nivau du jeu.
+
+La [GDC](https://en.wikipedia.org/wiki/Game_Developers_Conference) est une conférence annuelle de développeurs de jeux vidéos. Je n'ai encore quasiment rien regardé, mais certains talks semblent très intéressants.
+
+Il y a toute une série de *design postmortem*, c'est-à-dire de prises de recul sur
+le design d'un jeu particulier ([ici, darkest dungeon](https://www.youtube.com/watch?v=0IUaGQhlPwo)).
+
+Il y a vraiment de tout, y compris à propos de [Magic](https://www.youtube.com/watch?v=QHHg99hwQGY).

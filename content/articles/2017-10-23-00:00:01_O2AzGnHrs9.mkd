@@ -1,0 +1,16 @@
+Title: Winnower, reddit et médiations scientifiques
+Date: 2017-10-23-00:00:01
+Tags: 
+Authors: https://www.reddit.com/r/science/comments/71iigm/science_ama_series_we_are_a_group_pf_researchers/dnaybgz/?st=j7x2ot8k&sh=f9c22789
+Slug: O2AzGnHrs9
+Lang: fr
+status: published
+
+J'ai découvert le projet [Winnower](https://en.wikipedia.org/wiki/The_Winnower) qui, entre autres,
+gère [un bot reddit](https://www.reddit.com/user/redditWinnower) qui collecte les AMA et leur assigne un DOI.
+
+Par exemple, [un AMA super intéressant](https://www.reddit.com/r/science/comments/71iigm/science_ama_series_we_are_a_group_pf_researchers/?st=j7x2rzw8&sh=885c52f7),
+à propos des chercheurs derrière [Project Discovery](https://www.ccpgames.com/news/2017/eve-online-joins-search-for-real-exoplanets-with-project-discovery)
+(de la science citoyenne dans le MMO EVE Online).
+
+Merci à Jérôme pour l'AMA !

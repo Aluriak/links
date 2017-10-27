@@ -1,0 +1,17 @@
+Title: Une RFC qui définit foo et bar
+Date: 2017-10-20-00:00:00
+Tags: 
+Authors: http://www.faqs.org/rfcs/rfc3092.html
+Slug: KMbbYZQgRG
+Lang: fr
+status: published
+
+Parce que, comprenez : ça manquait. Maintenant,
+foo et bar sont correctement définit.
+
+On notera, en fin de RFC, la présence d'un contexte donnant pour chaque RFC les variables métasyntaxique utilisées.
+J'ai extrait le [contexte](https://lucas.bourneuf.net/blog/images/links/foobar/context.slf) dans un format standard,
+compréhensible par [LatticeMiner](https://sourceforge.net/projects/lattice-miner),
+qui a rendu son [treillis](https://lucas.bourneuf.net/blog/images/links/foobar/lattice.png).
+
+À quand l'inclusion de [toute la clique](https://en.wikipedia.org/wiki/Metasyntactic%20variable) dans le Petit Robert ?
