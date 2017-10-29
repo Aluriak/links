@@ -1,0 +1,15 @@
+Title: Exercism: learn languages by practicing from your terminal
+Date: 2017-10-29-00:00:01
+Tags: 
+Authors: http://exercism.io/
+Slug: cdhyYwVtFM
+Lang: fr
+status: published
+
+L'idée principale est que, via votre compte et une API standard,
+vous pouvez rapatrier les exercices à faire, et uploader vos solutions.
+Bref, ça se passe d'une interface web, et ça reste dans votre terminal,
+tout ça au service d'un objectif : s'entraîner à utiliser un langage.
+
+C'est franchement une bonne idée,
+d'autant qu'il y a [une pelletée de langages](http://exercism.io/languages) avec des exos disponibles.
