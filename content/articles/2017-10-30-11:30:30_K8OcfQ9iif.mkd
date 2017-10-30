@@ -1,0 +1,14 @@
+Title: vimanim: make animations out of vim commands
+Date: 2017-10-30-11:30:30
+Tags: 
+Authors: https://gist.github.com/lynn/5f4f532ae1b87068049a23f7d88581c5
+Slug: K8OcfQ9iif
+Lang: fr
+status: published
+
+L'idée est très simple, et bien illustrée [ici](https://gist.github.com/lynn/5f4f532ae1b87068049a23f7d88581c5) : montrer les effets d'une suite de commandes vim dans un gif où le fichier est affiché, ainsi que les touches pressées.
+
+Efficace, simple, et franchement utile.
+
+
+Au passage, je découvre l'émulateur de terminal [pyte](https://pypi.python.org/pypi/pyte/0.7.0), qui permet de s'aventurer dans le rétro, et [pexpect](https://pypi.python.org/pypi/pexpect), qui est [d'une efficacité redoutable](https://pexpect.readthedocs.io/en/stable/overview.html) pour gérer des interfaces de ligne de commande.
