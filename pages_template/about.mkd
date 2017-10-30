@@ -1,0 +1,24 @@
+Title: About
+Date: 2017-10-27-17:50:12
+Tags: 
+Authors: lucas
+Slug: stats
+Lang: fr
+status: published
+
+Number of published link: {published_links}  
+Number of yet unpublished link: {remaining_links}  
+
+  
+
+I had hundreds of links, waiting for me to do something about them.
+I find them every day by browsing on the web,
+and they piles up much more quickly than i can handle them.
+
+This website is the beginning of a solution:
+i now group all the links i found in a file,
+and each day my server pick one of them,
+and publish it with my notes.
+
+So, here, you get two things: a quantity of links already available,
+and the promise that more will come in the next days.

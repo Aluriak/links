@@ -124,9 +124,9 @@ LICENCE = 'WTFPL'  # LICENCE text, globally available
 # Blogroll:   (font awesome icon, diplayed name, link)
 BLOG_LINKS = 'Here', 'bars', (
     ('link',      'all links',   '/links/'),
-    ('question',  'random link', '/links/random.html'),
-    ('bar-chart', 'statistics',  '/links/pages/stats.html'),
+    ('bar-chart', 'about',       '/links/pages/about.html'),
     ('th-list',   'archive',     '/links/archives.html'),
+    ('question',  'random link', '/links/random.html'),
 )
 LINKS = 'Links', 'external-link', (
     ('home',    'home',    SERVERURL + '/home'),
