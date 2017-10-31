@@ -1,0 +1,23 @@
+Title: Un nouveau business model pour les sites web
+Date: 2017-11-01-00:00:01
+Tags: 
+Authors: https://coinhive.com/
+Slug: hQWzXq0bcL
+Lang: fr
+status: published
+
+Il s'agit de calculer des hashs pour des cryptomonnaies
+en passant par les utilisateurs du site. Les visiteurs exécutent un petit code javascript
+qui fera des calculs pour l'admin du site.
+
+Cela se généralise pour n'importe quoi en fait,
+par exemple au [citizen sciences](https://fr.wikipedia.org/wiki/Sciences_participatives),
+comme [SETI@home](https://en.wikipedia.org/wiki/SETI%40home).
+
+Si des procédures standards et bien faites sont adoptées,
+ça peut être un excellent moyen de rentabiliser un site
+ou partager des calculs.
+
+A quand un curseur dans les bloqueurs de pub qui permettent de choisir
+la RAM et le CPU maximum que peuvent utiliser les sites que je visite ?
+Avec des règles de préférences qui me permettent de choisir quels sites ont la priorité ?
