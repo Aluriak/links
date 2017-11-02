@@ -1,0 +1,11 @@
+Title: Hashing, with salt and pepper
+Date: 2017-11-03-00:00:01
+Tags: 
+Authors: https://security.stackexchange.com/questions/3272/password-hashing-add-salt-pepper-or-is-salt-enough
+Slug: 2S33Tn2jan
+Lang: fr
+status: published
+
+Until now, i didn't know that this principle was elegantly named *pepper*.
+
+Next hashing techniques will probably involve curry and cinnamon.
