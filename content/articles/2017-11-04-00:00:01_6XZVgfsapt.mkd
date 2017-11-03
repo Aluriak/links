@@ -1,0 +1,11 @@
+Title: One program to rule them all
+Date: 2017-11-04-00:00:01
+Tags: 
+Authors: https://github.com/ofek/hatch
+Slug: 6XZVgfsapt
+Lang: fr
+status: published
+
+L'idée est sympa : une surcouche simple et unifiée à une constellation d'outils souvent utilisés de concert mais dev chacun dans leur coin.
+
+A voir à l'usage si c'est vraiment plus efficace que des scripts fait au cas par cas.
