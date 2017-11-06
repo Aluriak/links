@@ -1,0 +1,16 @@
+Title: New York Times on Tor
+Date: 2017-11-07-00:00:01
+Tags: 
+Authors: https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482
+Slug: 9RrRvMQh74
+Lang: fr
+status: published
+
+Pas juste un coups de pub : il mettent des moyens humains là-dedans.
+
+Je ne connaissais pas [*The Enterprise Onion Toolkit*](https://github.com/alecmuffett/eotk),
+qui, je cite, est à Tor ce que [LetsEncrypt](https://letsencrypt.org/) est au SSL.
+En clair, il permet de publier sur Tor un site www sans trop se compliquer la vie
+(à vue de nez, EOTK fait un proxy qui interroge le site www et retourne le résultat au client Tor).
+
+On apprend au passage que d'autres grands du www ont déjà leur instance Tor.
