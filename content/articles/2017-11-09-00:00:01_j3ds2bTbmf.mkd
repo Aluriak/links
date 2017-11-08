@@ -1,0 +1,16 @@
+Title: Coverity
+Date: 2017-11-09-00:00:01
+Tags: 
+Authors: https://en.wikipedia.org/wiki/Coverity
+Slug: j3ds2bTbmf
+Lang: fr
+status: published
+
+J'apprend l'existence de ce système d'analyse statique du code,
+et qu'il est très utilisé dans les gros projets.
+
+Au hasard, [linux itself](https://scan.coverity.com/projects/linux) et [CPython](https://scan.coverity.com/projects/python).
+
+C'est assez rigolo les stats qu'on trouve sur ce site. Par exemple, pour CPython, on apprend que la densité de problème détecté est de 0.01, contre 0.5 observés en moyenne pour les projets de taille similaire.
+
+Pas mal ! C'est moins brillant pour le noyau linux, mais d'un autre côté, le bousin à 13 millions de lignes de codes.
