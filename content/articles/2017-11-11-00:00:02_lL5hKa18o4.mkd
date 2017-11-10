@@ -1,0 +1,12 @@
+Title: J. D. Cook: twitter pages
+Date: 2017-11-11-00:00:02
+Tags: 
+Authors: https://www.johndcook.com/blog/twitter_page/
+Slug: lL5hKa18o4
+Lang: fr
+status: published
+
+Il s'agit d'un pro en math/info, qui propose 17 (!) compte twitters
+qui push tous les jours de la semaine ouvrée.
+
+Il y a pas mal de contenu, c'est souvent très intéressant.
