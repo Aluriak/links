@@ -1,0 +1,17 @@
+Title: Open-sourcing the Apollo 11 mission was probably one of the best thing NASA did for our living-room
+Date: 2017-11-12-00:00:01
+Tags: 
+Authors: https://github.com/chrislgarry/Apollo-11
+Slug: PhcWWgXv73
+Lang: fr
+status: published
+
+NASA released many old style sci-fi posters, [*Visions of the Future*](https://www.jpl.nasa.gov/visions-of-the-future/). I printed two of them, they looks awesome…
+
+… but not as much as [the source code of the Apollo 11 command module](https://imgur.com/gallery/K1vmn)
+which is an endless source of entertainment since it lives in my living-room !
+
+([here are versions](https://codeposters.io/collections/apollo) that models an image ; it's so good that sources were released, long live the open-source)
+
+You may find precise things just by searching on the web.
+For instance [a poster version of the complete transcript of Apollo 11 mission](https://www.reddit.com/r/space/comments/2moz2q/i_made_a_90x215cm_poster_of_the_complete_apollo/?st=j7reaj8k&sh=301545cd).
