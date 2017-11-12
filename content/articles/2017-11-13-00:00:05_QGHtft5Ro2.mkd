@@ -1,0 +1,45 @@
+Title: Deepl: translation by neural networks
+Date: 2017-11-13-00:00:05
+Tags: 
+Authors: https://www.deepl.com/translator
+Slug: QGHtft5Ro2
+Lang: fr
+status: published
+
+Die Ergebnisse dieser Maschine (europäisch \o/)
+sind ehrlich gesagt beeindruckend,
+und erleben Sie viel besser als Google Übersetzung und systran.
+
+Auf der anderen Seite ist es ganz logisch: Das Netzwerk wird auf einer der hochwertigsten Übersetzungsdatenbanken trainiert, die es gibt, da sie von Menschen gefüllt ist, und arbeitet mit Ausdrücken statt Wort für Wort.
+
+Ich sehe zwei Möglichkeiten zur Verbesserung:
+
+- weniger Sprachen als andere. Also müssen wir abwarten, ob wir von Koreanisch nach Suaheli kommen.
+- keine Direktzugriffs-URL für den eingegebenen Text, auch nicht für die Quell- und Zielsprachen... also ist es nicht möglich, deepl programmatisch zu verwenden, z. B. von Duckduckgo mit einem Knall, wie `! dpeg` für Englisch -> Deutsch, oder `! dppf' für Polnisch -> Französisch.
+
+Für mich ist der erste nicht sehr problematisch; ich benutze selten mehr als Französisch/Englisch, und wenn das passiert, ist es Deutsch.
+
+Das zweite verhindert, dass ich es jeden Tag leicht anwenden kann, und das ist eine Schande. Ich habe ihnen bereits eine E-Mail geschickt, aber immer noch keine Antwort oder Verbesserung auf dieser Seite...
+
+
+
+### Le texte initial
+Le texte d'en haut ne se traduit pas parfaitement, il y a notamment des problèmes de niveau (*honte* à la place de *dommage* par exemple).
+
+Suit le texte initial, avant que je ne le fasse traduire par deepl.
+
+
+Les résultats de cette engine (européenne \o/)
+sont franchement impressionnants,
+et d'expérience bien meilleurs que google traduction et systran.
+
+D'un autre côté, c'est assez logique : le réseau est entraîné sur une des base de donnée de traduction de plus haute qualité qui soit, puisque c'est remplis par les humains, et travaille sur les expressions plutôt que sur le mot à mot.
+
+Je vois deux voies d'amélioration générales :
+
+- moins de langues que les autres. Il va donc falloir attendre pour passer du coréen au swahili.
+- pas d'url en accès direct pour le texte d'entrée, ni pour les langages source et cible… donc pas possible d'utiliser deepl de manière un peu programmatique, par exemple depuis duckduckgo avec un bang, genre `!dpeg` pour anglais -> allemand, ou `!dppf` pour polonais -> français.
+
+Pour moi, le premier n'est pas très problématique ; j'utilise rarement plus que français/anglais, et quand cela arrive, c'est de l'allemand.
+
+Le second m'empêche de l'utiliser facilement tous les jours, et ça c'est dommage. Je leur ai déjà envoyé un mail, mais toujours pas de réponse ou d'amélioration de ce côté…
