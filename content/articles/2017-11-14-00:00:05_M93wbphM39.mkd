@@ -1,0 +1,11 @@
+Title: Tkinter -&gt; tkinter: from dinopython to python
+Date: 2017-11-14-00:00:05
+Tags: 
+Authors: https://stackoverflow.com/questions/673174/file-dialogs-of-tkinter-in-python-3
+Slug: M93wbphM39
+Lang: fr
+status: published
+
+La réponse à la question est géniale : elle donne le mapping entre les noms en dinopython et ceux en python 3.
+
+Un must-have quand vous cherchez comment faire un SimpleDialog et que tous les tutos sont pour python 2 :)
