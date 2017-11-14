@@ -1,0 +1,12 @@
+Title: Flyby de Jupiter ; images de Juno reconstituées
+Date: 2017-11-15-00:00:05
+Tags: 
+Authors: https://www.youtube.com/watch?v=LMhnRiOn3YM
+Slug: ag1kgIeVJK
+Lang: fr
+status: published
+
+Un peu comme cela avait été fait avec [l'atterissage de Curiosity](https://www.youtube.com/watch?v=gZX5GRPnd4U),
+voici une reconstruction d'un passage de Juno.
+
+De l'auteur lui-même : *I edited some depth and a little blur and made it 60 fps so it appears to be more fluid in motion. I also did some sound design, colour corrections, removed some dust and scratches and upscaled it. Original processing was done by Gerald Eichstädt, Seán Doran.*
