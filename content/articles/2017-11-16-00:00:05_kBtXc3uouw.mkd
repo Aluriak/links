@@ -1,0 +1,13 @@
+Title: Gradescope: aide à la notation pour les profs
+Date: 2017-11-16-00:00:05
+Tags: 
+Authors: https://gradescope.com/
+Slug: kBtXc3uouw
+Lang: fr
+status: published
+
+C'est une étape grandiose par le temps qu'elle prend (et ça ne s'améliore pas) : la notation.
+
+Je ne sais pas si le logiciel vendu par Gradescope pourrait gérer la nouvelle méthodo de notation en France pour collèges/lycées (nommée *EPCC*, elle n'est pas assortie de littérature officielle, et donc assez difficile à traiter sans passer par des sites d'opinion ou les profs eux-même), mais ça vaudrait le coups de regarder.
+
+C'est un peu ce que j'avais voulu faire avec [weldon](https://github.com/aluriak/weldon), mais en plus généraliste, et plus orienté sur la notation.
