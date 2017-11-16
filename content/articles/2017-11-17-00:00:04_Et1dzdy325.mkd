@@ -1,0 +1,17 @@
+Title: Bonjour je suis: une liste de polices
+Date: 2017-11-17-00:00:04
+Tags: 
+Authors: http://www.bonjourjesuis.com/
+Slug: Et1dzdy325
+Lang: fr
+status: published
+
+C'est une excellente idée, même si parfois les textes sont un peu gratuits.
+
+Seul (gros) bémol, c'est que les textes, tous écrits en Helvetica, sont en image.
+Impossible de faire ctrl-f pour chercher telle ou telle police.
+
+Je partage au passage le texte de *Flixel*, qui me fait bien rire :
+*Bonjour, je suis Flixel. De faux pixels. Du faux braille. Une fausse bonne idée.*
+
+Au passage, il s'agit de [polices, pas de fontes](https://fr.wikipedia.org/wiki/Fonte_de_caract%C3%A8res#Diff.C3.A9rence%20entre%20fonte%20et%20police).
