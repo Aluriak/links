@@ -1,6 +1,6 @@
 Title: Pycon'14: generator, the new frontier
 Date: 2017-09-13-16:23:24
-Tags: 
+Tags: video, python, info, tuto, conf
 Authors: https://www.youtube.com/watch?v=D1twn9kLmYg
 Slug: 7GpB3fgryw
 Lang: fr

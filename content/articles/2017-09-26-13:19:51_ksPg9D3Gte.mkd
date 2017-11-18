@@ -1,6 +1,6 @@
 Title: SIGGRAPH: Technical papers trailer
 Date: 2017-09-26-13:19:51
-Tags: 
+Tags: conf, info, science, video
 Authors: https://www.youtube.com/results?search_query=SIGGRAPH+Technical+Papers+Trailer
 Slug: ksPg9D3Gte
 Lang: fr

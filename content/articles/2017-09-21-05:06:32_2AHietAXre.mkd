@@ -1,6 +1,6 @@
 Title: The art of over-engineering your side projects
 Date: 2017-09-21-05:06:32
-Tags: 
+Tags: info, text
 Authors: https://elsyms.com/the-art-of-over-engineering-your-side-projects/
 Slug: 2AHietAXre
 Lang: fr

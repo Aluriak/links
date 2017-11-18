@@ -1,6 +1,6 @@
 Title: GDC: à propos de The Witcher 3
 Date: 2017-10-26-00:00:01
-Tags: 
+Tags: gaming, conf, video
 Authors: https://www.youtube.com/watch?v=chf3REzAjgI
 Slug: DnsW2h73Mj
 Lang: fr

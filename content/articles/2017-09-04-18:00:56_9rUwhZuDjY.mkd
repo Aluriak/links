@@ -1,6 +1,6 @@
 Title: A useful but hard to find package for unix users
 Date: 2017-09-04-18:00:56
-Tags: 
+Tags: info, tools
 Authors: https://pypi.python.org/pypi/eg
 Slug: 9rUwhZuDjY
 Lang: fr

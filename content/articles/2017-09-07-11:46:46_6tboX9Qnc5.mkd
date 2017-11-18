@@ -1,6 +1,6 @@
 Title: A notification system for tiling window manager
 Date: 2017-09-07-11:46:46
-Tags: 
+Tags: info, tools
 Authors: https://github.com/sboli/twmn
 Slug: 6tboX9Qnc5
 Lang: fr

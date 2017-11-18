@@ -1,6 +1,6 @@
 Title: Une RFC qui définit foo et bar
 Date: 2017-10-20-00:00:00
-Tags: 
+Tags: info, text
 Authors: http://www.faqs.org/rfcs/rfc3092.html
 Slug: KMbbYZQgRG
 Lang: fr

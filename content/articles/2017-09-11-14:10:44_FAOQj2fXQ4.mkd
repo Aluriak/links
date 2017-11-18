@@ -1,6 +1,6 @@
 Title: Think: de la musique pendant les commandes longues
 Date: 2017-09-11-14:10:44
-Tags: 
+Tags: info, tools, music
 Authors: https://github.com/Kwpolska/think
 Slug: FAOQj2fXQ4
 Lang: fr

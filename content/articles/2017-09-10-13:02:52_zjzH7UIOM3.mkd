@@ -1,6 +1,6 @@
 Title: Keepassxc, une autre application de gestion de mot de passe
 Date: 2017-09-10-13:02:52
-Tags: 
+Tags: info, tools
 Authors: https://github.com/keepassxreboot/keepassxc
 Slug: zjzH7UIOM3
 Lang: fr
