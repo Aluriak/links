@@ -46,11 +46,9 @@ def expanded_tags(tags:iter or str) -> str:
     """Return tags, well formatted, with implications/corrections applied"""
     tags = set(tag.strip().lower() for tag in (tags.split(',') if isinstance(tags, str) else tags))
     # implications
-    if 'classical music' in tags:
+    if any(term in tags for term in {'classical music', 'remix'}):
         tags.add('music')
-    if 'remix' in tags:
-        tags.add('music')
-    if any(language in tags for language in {'asp', 'python', 'haskell', 'lisp', 'c', 'c++', 'prolog'}):
+    if any(term in tags for term in {'asp', 'python', 'haskell', 'lisp', 'c', 'c++', 'prolog', 'ai'}):
         tags.add('info')
     # corrections
     if 'tutorial' in tags:
