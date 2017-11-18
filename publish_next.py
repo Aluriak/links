@@ -42,6 +42,21 @@ def random_id(size:int=10) -> str:
     return ''.join(random.choice(alphabet) for _ in range(size))
 
 
+def expanded_tags(tags:iter or str) -> str:
+    """Return tags, well formatted, with implications applied"""
+    tags = set(tag.strip().lower() for tag in (tags.split(',') if isinstance(tags, str) else tags))
+    if 'classical music' in tags:
+        tags.add('music')
+    if 'remix' in tags:
+        tags.add('music')
+    if 'tool' in tags:
+        tags.remove('tool')
+        tags.add('tools')
+    if any(language in tags for language in {'asp', 'python', 'haskell', 'lisp', 'c', 'c++'}):
+        tags.add('info')
+    return ', '.join(sorted(tuple(tags)))
+
+
 def publish_link(url:str, title:str, description:str, tags:iter, date:str,
                  lang:str=DEFAULT_LANG, status:str=DEFAULT_STATUS):
     """Create the page, put it in articles"""
@@ -71,7 +86,7 @@ def publish_link(url:str, title:str, description:str, tags:iter, date:str,
         slug=slug,
         url=url,
         description=description,
-        tags=(tags if isinstance(tags, str) else ', '.join(tags)),
+        tags=expanded_tags(tags),
         date=date,
         lang=lang,
         status=status,
