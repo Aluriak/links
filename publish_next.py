@@ -43,17 +43,22 @@ def random_id(size:int=10) -> str:
 
 
 def expanded_tags(tags:iter or str) -> str:
-    """Return tags, well formatted, with implications applied"""
+    """Return tags, well formatted, with implications/corrections applied"""
     tags = set(tag.strip().lower() for tag in (tags.split(',') if isinstance(tags, str) else tags))
+    # implications
     if 'classical music' in tags:
         tags.add('music')
     if 'remix' in tags:
         tags.add('music')
+    if any(language in tags for language in {'asp', 'python', 'haskell', 'lisp', 'c', 'c++', 'prolog'}):
+        tags.add('info')
+    # corrections
+    if 'tutorial' in tags:
+        tags.remove('tutorial')
+        tags.add('tuto')
     if 'tool' in tags:
         tags.remove('tool')
         tags.add('tools')
-    if any(language in tags for language in {'asp', 'python', 'haskell', 'lisp', 'c', 'c++'}):
-        tags.add('info')
     return ', '.join(sorted(tuple(tags)))
 
 
