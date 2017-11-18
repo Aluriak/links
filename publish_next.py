@@ -93,6 +93,8 @@ def extract_and_publish(method:Method=Method.First, use_date_field:bool=False):
             index = len(links) - 1
         elif method is Method.Random:
             index = random.choice(range(len(links)))
+            with open('random_values.csv', 'a') as fd:
+                fd.write('{}/{}\n'.format(index, len(links)))
         else:
             raise ValueError("Given method, {}, is unexpected. Valid methods: {}"
                              "".format(method, ', '.join(m.value for m in Methods)))
