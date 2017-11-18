@@ -1,6 +1,6 @@
 Title: Chaine youtube: copain du web
 Date: 2017-10-02-07:13:48
-Tags: 
+Tags: video
 Authors: https://www.youtube.com/channel/UCelK-UQLyXKzFnus9IzuDCw
 Slug: 62BW5TRxtK
 Lang: fr

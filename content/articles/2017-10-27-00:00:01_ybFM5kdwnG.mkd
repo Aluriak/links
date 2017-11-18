@@ -1,6 +1,6 @@
 Title: Meat
 Date: 2017-10-27-00:00:01
-Tags: 
+Tags: sf, text
 Authors: http://www.terrybisson.com/page6/page6.html
 Slug: ybFM5kdwnG
 Lang: fr

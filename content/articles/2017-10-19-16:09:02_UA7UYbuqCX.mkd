@@ -1,6 +1,6 @@
 Title: Probabilistic Programming and Bayesian Methods for Hackers
 Date: 2017-10-19-16:09:02
-Tags: 
+Tags: info, tuto, math
 Authors: http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 Slug: UA7UYbuqCX
 Lang: fr

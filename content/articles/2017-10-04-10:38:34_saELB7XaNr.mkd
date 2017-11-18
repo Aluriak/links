@@ -1,6 +1,6 @@
 Title: The evolution of language, by aiju
 Date: 2017-10-04-10:38:34
-Tags: 
+Tags: info
 Authors: http://harmful.cat-v.org/software/xml/the_evolution_of_language
 Slug: saELB7XaNr
 Lang: fr

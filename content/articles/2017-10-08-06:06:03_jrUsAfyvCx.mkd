@@ -1,6 +1,6 @@
 Title: A gentle introduction to Answer Set Programming
 Date: 2017-10-08-06:06:03
-Tags: 
+Tags: info, asp
 Authors: https://cjamcl.com/blog/a-gentle-introduction-to-asp/
 Slug: jrUsAfyvCx
 Lang: fr

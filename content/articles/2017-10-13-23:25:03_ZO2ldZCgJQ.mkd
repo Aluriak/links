@@ -1,6 +1,6 @@
 Title: How to C in 2016 (and its response)
 Date: 2017-10-13-23:25:03
-Tags: 
+Tags: info, tuto
 Authors: https://matt.sh/howto-c
 Slug: ZO2ldZCgJQ
 Lang: fr
