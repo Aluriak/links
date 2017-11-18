@@ -64,7 +64,7 @@ def publish_link(url:str, title:str, description:str, tags:iter, date:str,
         html_title = html_title[:-len('</p>')]
 
     print(html_title)
-    push_on_tweeter(f'https//lucas.bourneuf.net/links/{slug}.html', title)
+    push_on_tweeter(f'https://lucas.bourneuf.net/links/{slug}.html', title)
     with open(filename, 'w', encoding='utf8') as fd:
         fd.write(mkd.format(
         title=html_title,
@@ -83,7 +83,8 @@ def extract_and_publish(method:Method=Method.First, use_date_field:bool=False):
     with open(LINKS_TO_PUBLISH, encoding='utf_8_sig') as fd:
         reader = csv.reader(fd, **CSV_PARAMS)
         links = tuple(reader)
-    if len(links) == 0:
+    nb_links = len(links)
+    if nb_links == 0:
         raise ValueError(f"No more links to extract ({LINKS_TO_PUBLISH} is empty).")
     else:
         if method is Method.First:
