@@ -22,7 +22,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 DEFAULT_METADATA = {
-        'status': 'draft',
+    'tags': 'undefined',
+    'status': 'draft',
 }
 
 PIWIK = False  # not used as url holder, but uniquely as enable/disable piwik

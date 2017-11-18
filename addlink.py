@@ -28,6 +28,7 @@ def add_link():
     with codecs.open(DATA_TO_ADD, 'r', encoding='utf_8_sig') as fd:
         title = next(fd).strip()
         url = next(fd).strip()
+        tags = next(fd).strip()
         body = fd.read().strip()
         pubdate = int(time.time())
 
@@ -39,7 +40,7 @@ def add_link():
     # NB: do not append the utf-8-sig at start (the codec is dumb: it would add it at the end)
     with codecs.open(LINKS_TO_PUBLISH, 'a', encoding='utf_8') as fd:
         writer = csv.writer(fd, **CSV_PARAMS)
-        writer.writerow((title, body, url, pubdate))
+        writer.writerow((title, tags, body, url, pubdate))
 
     print('DONE:', title)
 
@@ -54,6 +55,22 @@ def remaining_links():
         reader = csv.reader(fd, **CSV_PARAMS)
         yield from reader
 
+
+def convert_to_withtags():
+    """Converter, converting topublish database to a database with a new field
+    containing the tags.
+
+    Should be deleted after use.
+
+    """
+    with codecs.open(LINKS_TO_PUBLISH, 'r', encoding='utf_8') as fd:
+        data = tuple(csv.reader(fd, **CSV_PARAMS))
+        print(data)
+
+    with codecs.open('outtest.csv', 'w', encoding='utf_8') as fd:
+        writer = csv.writer(fd, **CSV_PARAMS)
+        for title, body, url, pubdate in data:
+            writer.writerow((title, 'undefined', body, url, pubdate))
 
 
 if __name__ == '__main__':

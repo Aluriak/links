@@ -71,7 +71,7 @@ def publish_link(url:str, title:str, description:str, tags:iter, date:str,
         slug=slug,
         url=url,
         description=description,
-        tags=', '.join(tags),
+        tags=(tags if isinstance(tags, str) else ', '.join(tags)),
         date=date,
         lang=lang,
         status=status,
@@ -100,9 +100,10 @@ def extract_and_publish(method:Method=Method.First, use_date_field:bool=False):
     links = (links[:index] if index != 0 else ()) + links[index+1:]
     # build the article
     publication_timestamp = None  # use the current time by default
-    if use_date_field and len(link) == 4:
-        publication_timestamp = float(link[3])  # use timestamp in data
-    publish_link(url=link[2], title=link[0], description=link[1], tags=[],
+    title, tags, body, url, timestamp = link
+    if use_date_field and len(link) == 5:
+        publication_timestamp = float(timestamp)  # use timestamp in data
+    publish_link(url=url, title=title, description=body, tags=tags,
                  date=current_time(publication_timestamp))
     # rebuild the topublish database
     with open(LINKS_TO_PUBLISH, 'w', encoding='utf_8_sig') as fd:

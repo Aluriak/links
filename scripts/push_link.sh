@@ -49,7 +49,8 @@ function validate() {
     then
         first_line=$(sed "1q;d" "${TOSEND}")
         second_line=$(sed "2q;d" "${TOSEND}")
-        last_lines=$(tail -n +3 ${TOSEND})
+        third_line=$(sed "3q;d" "${TOSEND}")
+        last_lines=$(tail -n +4 ${TOSEND})
 
         echo -ne '\033[0;33m'
         if [[ ! "$first_line" ]]
@@ -72,18 +73,20 @@ function validate() {
             # echo "INFO: link is ok ($second_line)"
         fi
 
-        # if [[ ! "$third_line" ]]
-        # then
-            # echo "WARNING: no tags given"
-        # elif [[ $(echo "$third_line" | grep "http") ]]
-        # then
-            # echo "WARNING: tags contains a link"
-        # elif [[ ! $(echo "$third_line" | grep ",") ]]
-        # then
-            # echo "WARNING: tags do not contains comma (tag separator)"
-        # # else
-            # # echo "INFO: title is ok ($first_line)"
-        # fi
+        if [[ ! "$third_line" ]]
+        then
+            echo "WARNING: no tags given"
+        elif [[ $(echo "$third_line" | grep "http") ]]
+        then
+            echo "WARNING: tags contains a link"
+        elif [[ ! $(echo "$third_line" | grep ",") ]]
+        then
+            echo "WARNING: tags do not contains comma (tag separator)"
+        else
+            echo -ne '\033[0m'  # normal color
+            echo "INFO: tags seems ok ($third_line)"
+            echo -ne '\033[0;33m'  # back to context
+        fi
 
         if [[ ! "$last_lines" ]]
         then
