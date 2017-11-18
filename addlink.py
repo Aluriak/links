@@ -56,22 +56,5 @@ def remaining_links():
         yield from reader
 
 
-def convert_to_withtags():
-    """Converter, converting topublish database to a database with a new field
-    containing the tags.
-
-    Should be deleted after use.
-
-    """
-    with codecs.open(LINKS_TO_PUBLISH, 'r', encoding='utf_8') as fd:
-        data = tuple(csv.reader(fd, **CSV_PARAMS))
-        print(data)
-
-    with codecs.open('outtest.csv', 'w', encoding='utf_8') as fd:
-        writer = csv.writer(fd, **CSV_PARAMS)
-        for title, body, url, pubdate in data:
-            writer.writerow((title, 'undefined', body, url, pubdate))
-
-
 if __name__ == '__main__':
     add_link()
