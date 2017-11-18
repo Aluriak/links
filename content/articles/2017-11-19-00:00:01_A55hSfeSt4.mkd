@@ -1,0 +1,21 @@
+Title: There is two step in building a system: <em>think</em>, and <em>do</em>.
+Date: 2017-11-19-00:00:01
+Tags: se
+Authors: https://workplace.stackexchange.com/questions/97274/how-to-act-with-inexperienced-coworkers
+Slug: A55hSfeSt4
+Lang: fr
+status: published
+
+This SE question is interesting, not because of its ground subject,
+but because of the system presented in it, and perfectly explained
+in answers.
+
+Thinking about the overall system in a formal and logical setting
+is a job. Implementing it is another.
+
+It's so different that, like described by the questionner, the two roles
+are implemented by two different peoples, each senior in its own domain.
+
+This is common knowledge for most programmers, but beginners often
+forget one of these two steps, leading to complex and unclear source code,
+or no results at all.
