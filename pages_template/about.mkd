@@ -2,7 +2,7 @@ Title: About
 Date: 2017-10-27-17:50:12
 Tags: 
 Authors: lucas
-Slug: stats
+Slug: about
 Lang: fr
 status: published
 
