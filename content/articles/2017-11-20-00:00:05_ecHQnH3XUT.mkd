@@ -7,5 +7,6 @@ Lang: fr
 status: published
 
 *Jambonlaissé* de Guillaume Remuepoire ferais un excellent cadeau.
+Il y a également [des tweets rigolos](https://twitter.com/LIndeprimeuse/status/932325861470146563) depuis [le compte officiel](https://twitter.com/LIndeprimeuse).
 
 Je me demande quel serais le résultat avec [deepl](https://www.deepl.com) ?

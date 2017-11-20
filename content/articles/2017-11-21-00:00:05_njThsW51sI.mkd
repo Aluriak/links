@@ -1,0 +1,16 @@
+Title: RD-600: Soviet gas-core bimodal nuclear thermal rocket
+Date: 2017-11-21-00:00:05
+Tags: paper, science, space
+Authors: https://forum.kerbalspaceprogram.com/index.php?/topic/151286-rd-600-soviet-gas-core-bimodal-nuclear-thermal-rocket
+Slug: njThsW51sI
+Lang: fr
+status: published
+
+Une biblio sur la recherche en matière de moteur de fusée réalisée par l'URSS pendant la guerre froide.
+
+Les russes avaient dans ce domaine une avance impressionnante.
+On connait tous le [projet Orion](https://fr.wikipedia.org/wiki/Projet_Orion), qui, côté US, consistait à faire péter des bombes atomiques pour faire avancer un vaisseau (très prometteur, mais avec un inconvénient de taille : il faut faire péter des dizaines de bombes atomiques, ça passe bof dans un contexte de désarmement nucléaire, la méthode fût-elle pacifiste).
+Il a été abandonné très vite, et finalement peu étudié.
+Pendant ce temps, les russes ont beaucoup réfléchi à la question.
+
+Vous pouvez trouver l'article (*Development Nuclear Gas Core Reactor in Russia*) sur [sci-hub](http://sci-hub.cc/10.2514/6.2007-35).
