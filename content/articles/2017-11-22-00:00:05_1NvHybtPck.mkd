@@ -1,0 +1,9 @@
+Title: Latex for Formal Concept Analysis
+Date: 2017-11-22-00:00:05
+Tags: fca, latex, math, science
+Authors: http://www.math.tu-dresden.de/~ganter/fca/
+Slug: 1NvHybtPck
+Lang: fr
+status: published
+
+If you need lattices or 2D tables with binary relations…
