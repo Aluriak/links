@@ -1,0 +1,19 @@
+Title: A Python implementation in Common Lisp
+Date: 2017-11-23-00:00:05
+Tags: info, lisp, python
+Authors: https://common-lisp.net/project/clpython/
+Slug: B4JxmHR1v0
+Lang: fr
+status: published
+
+Je suis hypé.
+
+- *access Lisp libraries from Python*: cool !
+- *access Python libraries from Lisp*: COOL !
+- *mix Python and Lisp code*: Wow ! Wow wow wow !
+
+
+*currently (2013) not under active development*: Ah. Fu.
+
+
+(cela étant dit, le [dépôt github](https://github.com/metawilm/cl-python) est assez actif… Serais-ce juste la doc ?
