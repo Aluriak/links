@@ -1,0 +1,11 @@
+Title: LaTeX: redéfinir le comportement de l'underscore
+Date: 2017-11-24-00:00:04
+Tags: latex
+Authors: https://www.ctan.org/pkg/underscore
+Slug: uzzJEtOHfm
+Lang: fr
+status: published
+
+Alléluia ! Depuis le temps que ça m'embêtait !
+il suffit d'un `\usepackage{underscore}` et paf, on peut coller
+des `_` partout.
