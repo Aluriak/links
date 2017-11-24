@@ -1,0 +1,22 @@
+Title: Explaining things using Evolution's reverse thinking
+Date: 2017-11-25-00:00:02
+Tags: humor, science, video
+Authors: https://www.ted.com/talks/dan_dennett_cute_sexy_sweet_funny
+Slug: wS1nCyMX43
+Lang: fr
+status: published
+
+En 8 minutes, un philosophe retourne les explications habituelles
+pour le goût sucré ou les sensations/émotions induites.
+Et introduit une théorie fort intéressante qui explique très simplement l'origine et l'intérêt évolutif de l'humour.
+
+D'ailleurs, il bosse avec un psychologue et un informaticien,
+et ensembles ont publiés [un livre à propos de leur modèle, *the Hurley Model*](https://mitpress.mit.edu/books/inside-jokes).
+
+Le premier auteur étant informaticien, il n'est pas
+étonnant qu'il y ait un parallèle avec la joie du debugging,
+car [c'est **exactement** ce qu'il se passe en vrai](https://nancyfolsom.wordpress.com/2008/08/26/the-joy-of-debugging/) :
+une activité fastidieuse avec un shot de bonheur à la fin.
+
+J'adore cette théorie. Elle est simple, efficace est explique extrèmement
+bien le concept d'humour.
