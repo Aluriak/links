@@ -1,0 +1,16 @@
+Title: SAM network: video database of knowledge
+Date: 2017-11-26-00:00:01
+Tags: data, video
+Authors: https://www.sam-network.org/
+Slug: xygkj1KTSW
+Lang: fr
+status: published
+
+A LOT of videos about various subjects, including science, politic,
+art and others.
+
+The main point is that you can annotate the videos you are watching,
+helping future viewers and, obviously, allowing a recommandation engine
+to provide you a well-tailored content.
+
+The video highlighted at the moment was [a conf of Villani, about an unification of economics, physics and geometry](https://www.sam-network.org/video/breaking-the-walls-between-economics-physics-and-geometry).
