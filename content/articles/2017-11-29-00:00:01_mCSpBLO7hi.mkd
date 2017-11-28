@@ -1,0 +1,21 @@
+Title: Etienne Klein - Cours introductif de Philosophie des Sciences
+Date: 2017-11-29-00:00:01
+Tags: conf, philosophy, science
+Authors: https://www.youtube.com/watch?v=NA2XOTSTs8w
+Slug: mCSpBLO7hi
+Lang: fr
+status: published
+
+9 parties d'une vingtaine de minutes en moyenne chacunes.
+
+Franchement sympa, avec des exemples parlants et des anecdotes rigolotes.
+
+Questions importantes auquelles vous pourrez avoir une (piste de) réponse :
+
+- la rationnalité est-elle universelle, même chez les indiens cayapo ?
+- pourquoi on ne fait pas des collisions de moustique dans le LHC ?
+- que se passe-t-il quand une théorie est invalidée par l'expérience ?
+- le sens commun peut-il être utilisé pour contester la science ?
+- est-ce que la masse est une propriété intrinsèque à la matière ?
+- ça fait quoi d'être quitté pour un chimiste quand on est physicien théoricien ?
+- pourquoi en france on a tous compris de travers le principe d'incertitude d'heisenberg ?
