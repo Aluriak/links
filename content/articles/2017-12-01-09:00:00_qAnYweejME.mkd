@@ -1,0 +1,17 @@
+Title: Fighting piracy by unbundling the publication system
+Date: 2017-12-01-09:00:00
+Tags: paper, science
+Authors: http://onlinelibrary.wiley.com/doi/10.1002/leap.1116/full
+Slug: qAnYweejME
+Lang: fr
+status: published
+
+C'est un article franchement intéressant, qui fait un parallèle entre la publication et les compagnies aériennes, notament les compagnies
+low-cost qui offrent le minimum syndical, et font payer les options.
+
+À propos de la signification deux systèmes comparés, [*green*](https://en.wikipedia.org/wiki/Open_access#Self-archiving:_green_open_access)
+et [*gold*](https://en.wikipedia.org/wiki/Open_access#Journals:_gold_open_access) : en gros, le *gold* c'est la publication dans un journal en open access, tel que [PloS](https://www.plos.org/),
+et le *green* c'est la publication dans une archive ouverte,
+comme [HAL](https://hal.archives-ouvertes.fr/).
+
+Je découvre également [OAspectrum.org](http://oaspectrum.org/), qui permet de se faire une idée du degré d'open access de certains éditeurs/journeaux/médiums.
