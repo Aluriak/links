@@ -1,0 +1,12 @@
+Title: Why does <code>~</code> represents the home folder on unix-like systems ?
+Date: 2017-12-02-09:00:00
+Tags: history, info
+Authors: https://www.howtogeek.com/329573/why-does-represent-the-home-folder-on-macos-and-linux/
+Slug: Ja7KbjVCxo
+Lang: fr
+status: published
+
+C'est l'occasion de se reposer la question de pourquoi HJKL dans vim,
+à part pour faire des t-shirts que personne ne comprend.
+
+Au passage, j'apprend que Gmail, twitter et facebook ont des raccourcis claviers qui s'inspirent de vim.
