@@ -1,0 +1,23 @@
+Title: White litterature: An Assessment of Cost Improvements in the NASA COTS/CRS Program and Implications for Future NASA Missions, by Edgar Zapata
+Date: 2017-12-03-09:00:00
+Tags: politic, science, space
+Authors: https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20170008895.pdf
+Slug: Pp6vlRlfJV
+Lang: fr
+status: published
+
+To cite the author: *The goal here is to do the math, to bring rigorous life cycle cost (LCC) analysis into discussions about COTS program costs. We gather publicly available cost data, review the data for credibility, check for consistency among sources, and rigorously define and analyze specific cost metrics.*
+
+TL;DR: Few times ago, NASA founded a program to search how to replace the space shuttle. SpaceX was one of the compagny getting money from this program. Today, NASA save lot of money because of that, since SpaceX costs are much lower than NASA's.
+It's not just about refuelling the ISS, it's also that *any* project SpaceX do, it's done for a fraction of the cost envisionned by Cost Analysis experts.
+
+To me, it shows that spatial agencies, that tends to be tightly coupled with an awfully heavy and changing bureaucracy, are not adapted to the reality of space: costs are engaged on years, and need a continuous support.
+
+Space agencies, especially NASA, have a real problem with that, because any change of bureaucratic lead will reorganize the founding, cancelling projects to the profit of anothers, that will be shutdown few years later (*no, it's not a shutdown, it's just that 99% of ressources working on it are know used for that other new shiny project*).
+
+The rise of private compagnies is a simple way to circumvent the problem,
+since the space agencies are usually good at giving direction and research boosts in many fields.
+
+You can find the official page relying the paper and its presentation [here](https://science.ksc.nasa.gov/shuttle/nexgen/rlvhp.htm).
+
+I discovered while searching for links that NASA has a [Cost Analysis Award](https://www.nasa.gov/offices/ocfo/Cost_Analysis_Award_Winners), given each year to many searchers (including Zapata, in 2008).
