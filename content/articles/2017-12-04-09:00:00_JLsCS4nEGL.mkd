@@ -1,0 +1,16 @@
+Title: Waterfox: Firefox for end-users
+Date: 2017-12-04-09:00:00
+Tags: info, tools
+Authors: https://github.com/MrAlex94/Waterfox
+Slug: JLsCS4nEGL
+Lang: fr
+status: published
+
+To put it simply: Waterfox is Firefox, without the features that are
+considered dangerous for privacy/liberty.
+
+It's therefore suited for power users that want to regain
+their liberty about addons and plugins.
+
+From the website: no pocket app by default, no encrypted extensions,
+handling of non-certified extensions.
