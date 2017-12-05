@@ -1,0 +1,27 @@
+Title: MINIX: you already use it, it's everywhere
+Date: 2017-12-05-09:00:00
+Tags: info, security
+Authors: https://www.networkworld.com/article/3236064/servers/minix-the-most-popular-os-in-the-world-thanks-to-intel.html
+Slug: VUtzABKStF
+Lang: fr
+status: published
+
+Article franchement inquiétant.
+
+Pour comprendre à quel point cette partie du CPU est inacessible,
+il faut se rappeler qu'il y a quelques temps,
+des [bidouilleurs](https://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html) ont réussis à extraire le code source de cette zone
+obscure… et sont tombé sur un truc chiffré avec une clef
+appartenant à intel, et évidemment incraquable en moins de plusieurs siècles.
+
+Maintenant qu'ils ont développé les outils pour simuler la décompression (car dans les processeurs, c'est fait au niveau hardware),
+ils ont dû trouver une partie du code (celle non chiffrée, probablement),
+et voir qu'il s'agissait de minix.
+D'où l'article en lien.
+
+Lien vers [le wiki](http://me.bios.io/ME:About) d'un groupe de libristes
+qui veulent proposer une alternative à ce code littéralement secret (et donc désastreux, d'un point de vue de la cybersécurité).
+
+EDIT: Visiblement, [des gens ont réussi](https://twitter.com/h0t_max/status/928269320064450560) à craquer le ME :)
+
+Bravo à eux !
