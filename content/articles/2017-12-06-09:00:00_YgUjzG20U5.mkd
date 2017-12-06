@@ -1,0 +1,17 @@
+Title: Faire tourner AOE 2 HD sur playonlinux
+Date: 2017-12-06-09:00:00
+Tags: gaming, info
+Authors: https://www.reddit.com/r/aoe2/comments/5px610/age_of_empires_2_hd_edition_with_playonlinux_and/?st=j98x7fm1&sh=fb380390
+Slug: YgUjzG20U5
+Lang: fr
+status: published
+
+En effet, le script officiel ne suffit pas exactement.
+
+Pour ma part, les instructions en lien se sont avérées être traduisibles ainsi :
+
+    cd .PlayOnLinux/wineprefix/AOE2HD/drive_c/Program\ Files/Steam/steamapps/common/Age2HD/
+    mv Launcher.exe Launcher.exe.bak
+    cp AoK\ HD.exe Launcher.exe
+
+Et avec la dernière version de wine, ça marche parfaitement :)
