@@ -1,0 +1,15 @@
+Title: cpy2py: use multiple interpreters/compilers on one single python code
+Date: 2017-12-07-09:00:01
+Tags: info, python, tools
+Authors: https://github.com/maxfischer2781/cpy2py
+Slug: ALcezEpe4P
+Lang: fr
+status: published
+
+À la frontière de la magie et du haut-niveau : changer d'interpréteur
+pendant l'exécution. C'est une très bonne idée,
+et c'est en fait une base pour un principe plus large :
+*mélanger les langages*.
+
+Parce que, oui, ce serait génial de pouvoir merger les langages aussi facilement que du C et de l'assembleur. Pas juste pour le style, mais pour pouvoir se focaliser sur le développement de langages avec de vraies spécificités,
+plutôt que des langages poubelles qui peuvent tout faire, et donc deviennent lourds et bordéliques.
