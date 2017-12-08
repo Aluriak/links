@@ -23,5 +23,7 @@ Lien vers [le wiki](http://me.bios.io/ME:About) d'un groupe de libristes
 qui veulent proposer une alternative à ce code littéralement secret (et donc désastreux, d'un point de vue de la cybersécurité).
 
 EDIT: Visiblement, [des gens ont réussi](https://twitter.com/h0t_max/status/928269320064450560) à craquer le ME :)
+Voici [un tweet](https://twitter.com/kennwhite/status/938559517087891457) qui link vers la littérature
+et la présentation lors de la Black Hat 2017 (merci Cyril Brulebois pour le lien).
 
 Bravo à eux !

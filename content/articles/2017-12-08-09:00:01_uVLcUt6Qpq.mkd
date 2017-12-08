@@ -1,0 +1,13 @@
+Title: Event Horizon Telescope: save this link for 2018
+Date: 2017-12-08-09:00:01
+Tags: internet, science, space
+Authors: http://eventhorizontelescope.org/
+Slug: uVLcUt6Qpq
+Lang: fr
+status: published
+
+Une collaboration internationale travaillant sur l'imagerie du trou noir au centre de notre galaxie, [Sagittarius A*](https://fr.wikipedia.org/wiki/Sagittaire_A*), grâce à des observations réalisées en avril 2017 ([photos d'archive](http://eventhorizontelescope.org/galleries/2017-observations)).
+
+Et [l'ALMA](https://blog.matael.org/compte-rendu-dune-conference-sur-lalma-avec-des-vrais-chercheurs-dedans.html) en fait partie \o/
+
+Il n'y pas encore les résultats (c'est en cours de calcul, d'où l'attente de 2018), mais il y a déjà [beaucoup à lire](http://eventhorizontelescope.org/science).
