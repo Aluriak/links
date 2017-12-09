@@ -1,0 +1,19 @@
+Title: Where do dwarf-eating carp come from ?
+Date: 2017-12-09-09:00:00
+Tags: gaming
+Authors: http://www.nytimes.com/2011/07/24/magazine/the-brilliance-of-dwarf-fortress.html
+Slug: cFJmQYkcTW
+Lang: fr
+status: published
+
+Le jeu [dwarf fortress](http://www.bay12games.com/dwarves/) est un trésor, et mérite bien son titre
+de jeu vidéo le plus complexe, au sens où la simulation qu'il met en place est d'une richesse jamais vu ailleurs.
+
+Il y a aussi le mode aventurier, une espèce rogue-like qui vous permet d'explorer le monde tel un aventurier.
+
+Et Si les graphismes vous rebute, il existe des moyens d'avoir une représentation graphique plus habituelle.
+
+Et sinon, vous pouvez vous intéresser aux [nombreux clones ou successeurs spirituels](https://www.reddit.com/r/gamingsuggestions/comments/1qma9q/games_like_dwarf_fortress_rimworld_gnomoria_etc/?st=ja826xdi&sh=87ab6a40), qui reprennent la recette avec plus ou moins de succès, fidélité et panache.
+
+J'ai personnellement testé [rimworld](https://rimworldgame.com/), que je vous conseille,
+et [prison architect](https://en.wikipedia.org/wiki/Prison_Architect), qui s'essouflait vite (probablement ont-ils beaucoup progressé depuis).
