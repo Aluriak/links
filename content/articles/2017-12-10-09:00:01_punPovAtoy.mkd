@@ -1,0 +1,12 @@
+Title: implimits: implementation quantities limits in C++
+Date: 2017-12-10-09:00:01
+Tags: c, c++, info, text
+Authors: https://timsong-cpp.github.io/cppwp/n4659/implimits
+Slug: punPovAtoy
+Lang: fr
+status: published
+
+Une annexe de la référence du C++ qui donne des bornes minimales attendues pour une implémentation du langage de différentes limites, par exemple le nombre de conditions imbriquées, ou le nombre d'arguments dans une fonction à nombre de paramètre variable.
+
+C'est amusant de voir que toutes ces limites sont des puissances de 2 (ce qui est tout à fait attendu),
+sauf [une](https://timsong-cpp.github.io/cppwp/n4659/implimits#2.43) : *Number of placeholders*, qui est à 10. J'imagine que cette limite est dûe à [leur écriture même](http://www.cplusplus.com/reference/functional/placeholders/) : `_0` à `_9`, ça fait 10 tokens.
