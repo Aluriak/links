@@ -1,0 +1,13 @@
+Title: Genomix Fighter doesn't work with Hot Red Dragon Archfiend King Calamity
+Date: 2017-12-12-09:00:00
+Tags: data, gaming
+Authors: https://github.com/Fluorohydride/ygopro-scripts
+Slug: JG1RLztxGn
+Lang: fr
+status: published
+
+A list of yu-gi-oh cards, with **their power encoded in lua**.
+
+That's an incredible system, coming [with a gui](https://github.com/Fluorohydride/ygopro) allowing one to explore the cards and their effect.
+
+A gargantuan job keeping together 7937 cards !
