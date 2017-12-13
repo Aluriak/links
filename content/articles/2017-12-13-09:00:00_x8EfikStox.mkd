@@ -1,0 +1,9 @@
+Title: Neural networks for generating music
+Date: 2017-12-13-09:00:00
+Tags: music, science
+Authors: https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0
+Slug: x8EfikStox
+Lang: fr
+status: published
+
+Avec une petite biblio des techniques pour commencer, montrant les résultats et leur évolution. J'aime particulièrement la visualisation de la chaîne de markov, c'est très réussi.
