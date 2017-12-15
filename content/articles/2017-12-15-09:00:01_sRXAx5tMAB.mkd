@@ -1,0 +1,13 @@
+Title: biolapse: <em>I build robots. I film plants.</em>
+Date: 2017-12-15-09:00:01
+Tags: science, video
+Authors: https://vimeo.com/112014963
+Slug: sRXAx5tMAB
+Lang: fr
+status: published
+
+In short, [biolapse](http://biolapse.com/) is about making timelapses
+of biology phenomena. It's all made by someone named Chris Field, that was
+related to the now terminated [Chronos Project](http://thechronosproject.com/), that was about making hardware for timelapses.
+
+You can found all the biolapse videos on [the vimeo account](https://vimeo.com/user3779442), like [flower 4k](https://vimeo.com/224012672).
