@@ -1,0 +1,9 @@
+Title: Lisp in less than 200 lines of C
+Date: 2017-12-16-09:00:01
+Tags: c, info, lisp
+Authors: https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html
+Slug: S1J7pAAEx4
+Lang: fr
+status: published
+
+Une lecture intéressante et qui prend le temps d'expliquer bien des aspects du C.
