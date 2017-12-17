@@ -1,0 +1,21 @@
+Title: Numerous examples of abuses by ISPs
+Date: 2017-12-17-09:00:00
+Tags: internet, politic
+Authors: https://politics.stackexchange.com/questions/26289/has-there-ever-been-a-documented-instance-of-the-problem-that-net-neutrality-pur
+Slug: uOl2wJL0tI
+Lang: fr
+status: published
+
+Pleins de cas intéressant d'abus de pouvoir.
+
+Après, évidemment, chacun son point de vue sur la chose : on peut considérer que donner le tout pouvoir sur le contenu aux FAI/ISP est normal, puisque c'est eux qui acheminent ledit contenu.
+Un peu comme la SNCF possède les valises des voyageurs. Euh…
+
+Voilà une analogie avec les fournisseurs d'électricité, si le réseau électrique n'était pas neutre :
+
+![electricity neutrality analogy](https://usercontent.irccloud-cdn.com/file/hLvtu78c/a_net_neutrality_analogy.png)
+
+[Source](https://ryanpcmcquen.org/internet/2016/11/12/a-net-neutrality-analogy.html)
+
+
+Enfin, [voilà](https://ryanpcmcquen.org/internet/2016/11/12/a-net-neutrality-analogy.html) un lien vers deux articles, chacun d'un point de vue différent sur la neutralité du net.
