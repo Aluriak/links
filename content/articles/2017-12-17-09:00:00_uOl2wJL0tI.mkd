@@ -11,9 +11,7 @@ Pleins de cas intéressant d'abus de pouvoir.
 Après, évidemment, chacun son point de vue sur la chose : on peut considérer que donner le tout pouvoir sur le contenu aux FAI/ISP est normal, puisque c'est eux qui acheminent ledit contenu.
 Un peu comme la SNCF possède les valises des voyageurs. Euh…
 
-Voilà une analogie avec les fournisseurs d'électricité, si le réseau électrique n'était pas neutre :
-
-![electricity neutrality analogy](https://usercontent.irccloud-cdn.com/file/hLvtu78c/a_net_neutrality_analogy.png)
+[Voilà une analogie](https://usercontent.irccloud-cdn.com/file/hLvtu78c/a_net_neutrality_analogy.png) avec les fournisseurs d'électricité, si le réseau électrique n'était pas neutre.
 
 [Source](https://ryanpcmcquen.org/internet/2016/11/12/a-net-neutrality-analogy.html)
 

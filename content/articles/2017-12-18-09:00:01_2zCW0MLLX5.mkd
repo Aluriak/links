@@ -1,0 +1,11 @@
+Title: Leslibraires.fr, l'Amazon français du livre
+Date: 2017-12-18-09:00:01
+Tags: tools
+Authors: https://www.leslibraires.fr/
+Slug: 2zCW0MLLX5
+Lang: fr
+status: published
+
+Plutôt sympa ; j'ai commandé quelques BD/bouquins dessus, ça a marché plutôt bien, bien que ça ait été un peu long. Peut-être parce que je suis tombé pendant la période des vacances scolaires ?
+
+Bref, une alternative française à Amazon or [book-depository](https://www.bookdepository.com/).
