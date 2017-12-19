@@ -1,0 +1,12 @@
+Title: All the linar algebra you need for AI
+Date: 2017-12-19-09:00:01
+Tags: ai, info, tuto
+Authors: https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb
+Slug: KiSrOQpR1g
+Lang: fr
+status: published
+
+Wow, ça semble facile !
+PyTorch, GPU, réseaux de neurones,…
+
+Vivement que je fasse ce tuto :)
