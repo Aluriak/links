@@ -1,0 +1,24 @@
+Title: Moon machines: a documentary series about the engineering behind Apollo program
+Date: 2017-12-21-09:00:01
+Tags: science, space, video
+Authors: https://www.youtube.com/watch?v=mucb4Ttt1oY&list=PLTu8nanTJo7GvulBxz9JT9JcXeXimM1Vr
+Slug: AN7oIz2CWH
+Lang: fr
+status: published
+
+Il s'agit d'une demi-douzaine d'épisodes de 45 minutes, chacun tourné vers un pan du programme : la fusée, le rover,…
+
+Celui sur le module de commande est incontestablement mon préféré :
+on y parle de [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret%20Hamilton%20%28scientist%29), des innovations qui ont été nécessaires
+pour que le système informatique soit à la hauteur de la tâche
+(innovations qui aujourd'hui nous semblent évidentes,
+comme la prioritisation des processus), et de la complexité logicielle
+générale qui a été un défi à elle toute seule.
+
+(le code dudit module de commande est d'ailleurs dans [le domaine publique](https://lucas.bourneuf.net/links/PhcWWgXv73.html))
+
+C'est franchement une très bonne série, avec des interviews d'ingénieurs et scientifiques, qui ont plein d'anecdotes sur le sujet et des histoires passionnantes à raconter.
+
+Et ça montre bien la complexité impressionnante de ce projet,
+et à quel point tous les domaines d'ingénieurerie et de science
+ont été réquisitionnés pour assurer la réussite.
