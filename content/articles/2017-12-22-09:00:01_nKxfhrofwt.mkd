@@ -1,0 +1,15 @@
+Title: Worldview by EOSDIS (NASA)
+Date: 2017-12-22-09:00:01
+Tags: internet, space
+Authors: https://worldview.earthdata.nasa.gov/
+Slug: nKxfhrofwt
+Lang: fr
+status: published
+
+Le projet de monitoring de la planète permet d'avoir des vues régulières de notre maison, Certaines parcelles étant parcourues deux fois par jour.
+
+Rapellons que la NASA n'est pas la seule à surveiller de notre planète :
+[l'ESA aussi](http://www.esa.int/Our_Activities/Observing_the_Earth) propose [des données ouvertes sur le sujet](https://earth.esa.int/web/guest/data-access), acquises notamment par le projet [Copernicus](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Overview4).
+
+Voir [ici](http://www.esa.int/Our_Activities/Observing_the_Earth/Highlights/Earth_observation_missions) l'ensemble des projets de surveillance de l'ESA,
+et [ici](http://www.esa.int/ESA/Our_Missions) l'ensemble des missions tout court.
