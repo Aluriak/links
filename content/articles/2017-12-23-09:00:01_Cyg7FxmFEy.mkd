@@ -1,0 +1,12 @@
+Title: C'est quoi un forum ?
+Date: 2017-12-23-09:00:01
+Tags: text
+Authors: https://spaceweb.center/topic/80/pourquoi-vous-faites-un-forum-l%C3%A0
+Slug: Cyg7FxmFEy
+Lang: fr
+status: published
+
+Ce texte, écrit par l'un des co-créateur de la série audio [Clyde Vanilla](https://clydevanilla.space/) (l'autre auteur étant [Antoine Daniel](https://www.youtube.com/user/MrAntoineDaniel)), a pour but d'expliquer à ceux qui n'ont connu que l'internet des GAFA, l'intérêt d'un forum (et donc, pourquoi il y en a un pour Clyde Vanilla).
+
+Perso, les forums ont constitué une part importante de ma jeunesse aussi.
+C'est fou de voir que c'est devenu l'équivalent d'IRC pour les messageries temps réel: un truc de ~vieux~ d'initiés.
