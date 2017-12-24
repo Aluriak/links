@@ -1,0 +1,24 @@
+Title: Arc, or the new implementation of the hundred years old language
+Date: 2017-12-24-09:00:01
+Tags: info, lisp
+Authors: http://arclanguage.github.io/
+Slug: iV2HAOyi2I
+Lang: fr
+status: published
+
+First released [in 2008](http://www.paulgraham.com/arc0.html), *arc* (or *anarki*, for the community-driven fork)
+is a [lisp](http://www.paulgraham.com/hundred.html)-derivative
+directly coming from [Paul Graham](ihttps://en.wikipedia.org/wiki/Paul%20Graham%20(computer%20programmer)).
+
+To me, it seems that lisp-derivatives future are best represented
+by Arc and [Racket](http://racket-lang.org/) (i do not understand exactly the relation between the two, but both communities are well-aware of the other, and seems to [share a common source core](https://github.com/arclanguage/anarki/issues/27) ; is racket based on arc/anarki ? One supplementary reason to learn it ! Racket makes eyes at me since i discovered it).
+
+The first seems to me that it's mainly implemented, fed and builded
+by and for a niche of lisp-enthousiasts with
+[very philosophic ideas](http://www.paulgraham.com/design.html)
+of what should and what should not be in [a good language](http://www.paulgraham.com/popular.html).
+
+The second is much more general-scientific programmer oriented, with [a more practical approach](http://www.ccis.northeastern.edu/home/matthias/manifesto/), and with dozens of features that range from funny to killing (make your own language… i have to code an ASP mapping !).
+I am hyped by Racket, therefore not very objective.
+
+You can give a shot to Arc [here](http://tryarc.org/).
