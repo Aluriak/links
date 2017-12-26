@@ -1,0 +1,74 @@
+Title: Of the use of <code>setup.cfg</code> instead of <code>setup.py</code>
+Date: 2017-12-26-09:00:01
+Tags: conf, info, python, tuto
+Authors: https://setuptools.readthedocs.io/en/latest/setuptools.html#configuring-setup-using-setup-cfg-files
+Slug: TfOKwOAT3a
+Lang: fr
+status: published
+
+I upload python packages on pypi on a regular basis since a few years.
+Since today, i **never** found anything helpful in the official packaging documentation**s**.
+
+Because there is plenty of it, and as soon as you start a real project,
+you somehow end up in a corner case that the doc covers,
+if ever, superficially.
+
+And, today, i found consecutively (and unexpectedly) two things.
+
+1. This [funny presentation](https://www.youtube.com/watch?v=Y5xMQYw9lls&list=PLetYPqNT2qjAinIBr976XSjJObaa-zUy5&index=20) ([slides](https://twidi.github.io/python-packaging-talk/fr)) from [pycon.fr 2017](https://www.pycon.fr/2017/), where many interesting tools are presented, after a very efficient explanation of `setup.{cfg,py}`
+2. [The linked doc page](https://setuptools.readthedocs.io/en/latest/setuptools.html#configuring-setup-using-setup-cfg-files), that is litterally the first packaging-related official documentation i found helpful.
+
+So, i started the migration of [graffunc](https://github.com/aluriak/graffunc)
+and its direct application [rofetta](https://github.com/aluriak/rofetta),
+with the constraint to use [zest.releaser](http://zestreleaser.readthedocs.io/en/latest/), the final tool presented in the presentation, that do about everything.
+
+One big change to me was the usage of `setup.cfg` instead of `setup.py`. (Not so) Surprisingly, it's much more efficient and easy ; and the py is now two lines long (see below for an example).
+Just one caveat: you have to [cheat a little](http://flakyj.blogspot.de/2017/05/intechopen-intech-sciyo.html) if you want to install the requirements without passing by the complete setuptools machinery. Just put that line in your Makefiles or in your bash aliases, and you can forget about it.
+
+I however one weird problem quickly,
+since i followed the presentation blindly,
+and therefore forgot to add few lines they didn't talk about.
+The problem was, after installation in another repository of graffunc,
+that any import of graffunc itself would fail with an `ImportError: No module named 'graffunc'`.
+
+So, here is my working `setup.py`:
+
+    from setuptools import setup
+
+    setup()
+
+Which is quite simple and easy to maintain (i will probably reuse the very same for most of my projects, now).
+And here is my working `setup.cfg` for the graffunc package:
+
+    [metadata]
+    name = graffunc
+    version = 0.2.2
+    description = high level graph of function
+    long_description = file: README.mkd
+    url = https://github.com/aluriak/graffunc
+    license = GPL
+    keywords = graph, function, data structure
+    classifiers =
+            Development Status :: 2 - Pre-Alpha
+            Intended Audience :: Science/Research
+            License :: OSI Approved :: GNU General Public License (GPL)
+            Natural Language :: English
+            Programming Language :: Python :: 3
+            Programming Language :: Python :: 3.4
+            Topic :: Software Development :: Libraries :: Python Modules
+
+    [options]
+    zip_safe = False
+    include_package_data = True
+    packages = find:
+    install_requires =
+        pytest>=3.1.2
+        networkx==1.11
+
+You will note the `[option]` part, populated with **one absolute line**: `packages = find:`, which allow python to look for your package and include it correctly.
+Without that, you will encounter the `ImportError`.
+
+I would expect zest.releaser to detect and warn
+me about a so absurd error. But it didn't,
+and i'm so happy that i found the right doc page so quickly,
+i had to share :)
