@@ -1,0 +1,17 @@
+Title: Dolibarr: FOSS-based management of resources and customer management for professionnals
+Date: 2017-12-28-09:00:01
+Tags: software
+Authors: https://www.dolibarr.org/
+Slug: 15F2AISASc
+Lang: fr
+status: published
+
+C'est un domaine qui m'est totalement inconnu, c'est toujours intéressant de savoir que ça existe.
+
+Que sont des CRM et des ERP, deux choses que Dolibarr implémente ?
+Le premier est le nom donné à un système qui s'occupe de la base clientèle (gestion du support, des contacts, contrats, …),
+et le second celui donné au système qui s'occupe de gérer l'entreprise en interne (relations entre employés, planning, gestion, …).
+
+[Voilà](https://www.crmswitch.com/crm-value/understanding-crm-erp/) une description plus avancée.
+
+J'imagine que le jour où je serais à mon compte, je m'intéresserais à Dolibarr.
