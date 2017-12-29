@@ -1,0 +1,11 @@
+Title: Box: Python dictionaries with advanced dot notation access
+Date: 2017-12-29-09:00:00
+Tags: info, python, tools
+Authors: https://github.com/cdgriffith/Box/
+Slug: uLIe0LHw7O
+Lang: fr
+status: published
+
+AH ! Depuis le temps que je cherche un module pour faire ça !
+
+Et il ya même une version *frozen*, qui manque au dictionnaires :)
