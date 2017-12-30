@@ -1,0 +1,15 @@
+Title: MOOSE: a framework for physics simulations
+Date: 2017-12-30-09:00:00
+Tags: info, physics
+Authors: http://mooseframework.org/
+Slug: JbJdDIc3iB
+Lang: fr
+status: published
+
+Woha. Je suis pas sûr, mais je pense qu'il s'agit d'une grosse base de code C++/dinopython
+pour développer des interfaces graphiques autour de simulations informatiques.
+
+N'étant pas physicien, j'ai du mal à imaginer ce que je pourrais en faire, mais l'intérêt du truc est énorme.
+Visiblement, ils ont des idées ; bien que j'ai du mal à trouver [des vidéos de démo](https://www.youtube.com/watch?v=4xTfQxpGAI4),
+il y a de quoi lire dans la littérature. Par exemple [ici](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3240547/)
+avec un moyen de coupler MOOSE avec d'autres framework pour faire des simulations multi-échelles.
