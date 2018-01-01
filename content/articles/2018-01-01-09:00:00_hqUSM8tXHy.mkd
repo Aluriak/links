@@ -1,0 +1,13 @@
+Title: Veles: binary data visualization
+Date: 2018-01-01-09:00:00
+Tags: info, viz
+Authors: https://codisec.com/veles/
+Slug: hqUSM8tXHy
+Lang: fr
+status: published
+
+I discovered this via [the explanation of the visualization](https://codisec.com/binary-visualization-explained/).
+
+Codisec itself is a group of [CTF](http://www.cipher-ctf.org/CaptureTheFlag.php)
+players using their expertise for security.
+See [their front](https://codisec.com/) and [github](https://github.com/codilime/veles).
