@@ -1,0 +1,17 @@
+Title: Published papers about NASA's twins study
+Date: 2018-01-03-09:00:00
+Tags: biology, science, space
+Authors: https://www.nasa.gov/twins-study/research
+Slug: 9nMfrdCfnO
+Lang: fr
+status: published
+
+Deux jumeaux astronautes, Scott et Mark Kelly,
+sont les sujets de ces études, depuis que le premier
+est revenu de son année dans l'espace,
+pendant laquelle le second est resté au sol.
+
+Niveau génomique, il y a des changements dans les tailles de télomères
+et des profils de méthylation.
+
+[Voilà un article de vulgarisation](http://www.astronomy.com/news/2017/10/twins-study).
