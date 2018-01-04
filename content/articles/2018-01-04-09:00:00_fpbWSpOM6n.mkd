@@ -1,0 +1,9 @@
+Title: Regex was taking 5 days to run. So i built a tool that did it in 15 minutes.
+Date: 2018-01-04-09:00:00
+Tags: info, python, text
+Authors: https://dev.to/vi3k6i5/regex-was-taking-5-days-to-run-so-i-built-a-tool-that-did-it-in-15-minutes-c98
+Slug: fpbWSpOM6n
+Lang: fr
+status: published
+
+
