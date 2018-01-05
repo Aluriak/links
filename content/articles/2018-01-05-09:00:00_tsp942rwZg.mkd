@@ -1,0 +1,44 @@
+Title: Traduction: Les enfants ne savent pas se servir d'un ordinateur
+Date: 2018-01-05-09:00:00
+Tags: info, politique, text
+Authors: https://nicolaslegland.wordpress.com/2013/08/15/les-enfants-ne-savent-pas-se-servir-dun-ordinateur/
+Slug: tsp942rwZg
+Lang: fr
+status: published
+
+Il s'agit d'une traduction d'un article en [english](http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/).
+
+L'article, ainsi que ceux linkés plus bas, est très pertinent, mais je trouve quelques analogies peut-être un peu déplacées.
+
+Je suis moi aussi convaincu que notre société possède un fort taux d'[illectronisme](https://fr.wikipedia.org/wiki/Illectronisme),
+et qu'il touche autant les adultes que les enfants.
+Je suis moi aussi convaincu que la fracture numérique n'est pas ce qu'il y a entre les pays développés et les autres,
+mais plutôt entre les utilisateurs et les créateurs en informatique.
+Car le premier n'est qu'une différence de degré (taux de connexion à internet, globalement),
+mais l'autre est une différence de nature : le rapport à la technologie.
+
+Cela étant dit, je ne pense pas que parler de démonter un ordinateur soit pertinent.
+Certes, il est bon d'avoir une bonne idée de ce qu'il y a dedans, des différentes cartes et connectiques qui s'y trouvent.
+Mais pour continuer le parallèle avec la voiture, il n'est pas critique de savoir la réparer. Il y a des professionnels pour ça.
+Bien sûr, je paye mon ignorance en allant plus souvent voir ces professionnels, et en étant totalement soumis à leur décision, mais c'est un choix.
+Du temps contre de l'argent.
+
+Non, la différence entre le numérique et la mécanique est plus général que ça.
+Vous pouvez vous passer d'une voiture. Vous pouvez esquiver la mécanique le plus clair de votre temps.
+La mécanique peut être une composante minime de votre vie.
+Pas le numérique.
+
+Le numérique est partout, dans tous les problèmes d'aujourd'hui, dans tous les appareils d'aujourd'hui.
+Il s'agit de savoir comment il fonctionne, et de détecter les dérives.
+Lorsque des politiciens qui proposent des filtres sur internet, personne ne remarque l'énormité de la chose,
+ni ne trouve ça bizarre d'utiliser l'argent du contribuable pour des pseudo-solutions intenables.
+C'est là le cœur du problème. Nous sommes détachés du monde dans lequel nous vivons.
+
+C'est dommage, car cela veut dire qu'on en fait n'importe quoi.
+C'est dommage, car cela veut dire qu'on ne pourra pas en faire quelque chose de génial.
+
+Par exemple une démocratie transparente, [liquide](https://framablog.org/2015/12/09/democratie-liquide/),
+qui permettrait d'éviter les dérives telles qu'on les subit aujourd'hui.
+
+Il ne s'agit pas non plus de savoir qu'on ne sait pas. Encore moins d'en être fier.
+Il s'agit de s'intégrer au monde qui nous entoure.
