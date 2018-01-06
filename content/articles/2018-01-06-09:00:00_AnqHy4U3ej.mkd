@@ -1,0 +1,14 @@
+Title: Writing with vim
+Date: 2018-01-06-09:00:00
+Tags: info, tools, tuto
+Authors: https://www.robertmelton.com/2016/09/09/writing-with-vim/
+Slug: AnqHy4U3ej
+Lang: fr
+status: published
+
+A short article with a *lot* of links, to plugins or other articles.
+
+The main idea is: vim is not just for code, but also for creatives,
+like writers.
+
+Well, programming is a creative task, IMHO, but you get the idea.
