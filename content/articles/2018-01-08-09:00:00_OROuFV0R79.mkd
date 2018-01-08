@@ -1,0 +1,14 @@
+Title: Bealls list of predatory publishers
+Date: 2018-01-08-09:00:00
+Tags: science, text, tuto
+Authors: https://clinicallibrarian.wordpress.com/2017/01/23/bealls-list-of-predatory-publishers/
+Slug: OROuFV0R79
+Lang: fr
+status: published
+
+I've recently been contacted by [one of them](http://flakyj.blogspot.de/2017/05/intechopen-intech-sciyo.html).
+
+It's a kind of spam you get when you are in the field,
+they just do not sell the same thing.
+
+Keep [thinkchecksubmit.org](http://thinkchecksubmit.org/) and/or an experienced researcher close to you if you want to train your own spam detector.
