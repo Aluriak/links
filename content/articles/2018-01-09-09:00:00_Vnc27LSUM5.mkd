@@ -1,0 +1,34 @@
+Title: The powdertoy !
+Date: 2018-01-09-09:00:00
+Tags: jeu
+Authors: http://powdertoy.co.uk/
+Slug: Vnc27LSUM5
+Lang: fr
+status: published
+
+C'est le jeu de ma licence !
+Et il est [maintenu](https://github.com/ThePowderToy/The-Powder-Toy) ! Wow ! Je le pensais abandonné depuis un moment !
+
+L'idée principale : vous avez un tableau 2D où chaque pixel est un élément.
+Vous avez de tout : des métaux, des composés organiques, des explosifs, des trucs exotiques,…
+
+Avec powdertoy, vous pouvez simuler [une centrale nucléaire](http://powdertoy.co.uk/Browse/View.html?ID=78400),
+une centrale à charbon,
+[un ordinateur programmable](http://powdertoy.co.uk/Browse/View.html?ID=335175),
+[un simulateur de cyclone](http://powdertoy.co.uk/Browse/View.html?ID=5654),
+[une montre](http://powdertoy.co.uk/Browse/View.html?ID=656163),
+[la fusée ariane 5](http://powdertoy.co.uk/Browse/View.html?ID=1675193),
+[une fusée avec le jeu de la vie](http://powdertoy.co.uk/Browse/View.html?ID=191363),
+[un recopieur d'image](http://powdertoy.co.uk/Browse/View.html?ID=105749),
+des [reconstitutions historiques](http://powdertoy.co.uk/Browse/View.html?ID=4415)…
+C'est d'une puissance inimaginable.
+
+Et sinon, quand vous êtes pas très doués comme moi, vous pouvez juste faire des
+boules de titanium et les faire fondre de l'intérieur, c'est rigolo aussi.
+
+Je suis un gros fan de réactions simples mais réalistes : faire brûler de l'oxygène et de l'hydrogène pour avoir de l'eau, par exemple.
+Avec le PIPE, il est aussi possible de faire une gazinière au pétrole pour faire chauffer de l'eau.
+
+C'est sûr, j'ai pas encore le niveau pour faire des trucs qui vont arriver en première page du site :)
+
+Les différents composés sont codés en lua, si ça vous intéresse de tripatouiller le truc.
