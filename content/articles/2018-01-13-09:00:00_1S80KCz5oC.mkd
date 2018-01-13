@@ -1,0 +1,12 @@
+Title: Tracery: auto-generation of content based on vocabulary and grammar
+Date: 2018-01-13-09:00:00
+Tags: internet, text, tools
+Authors: http://tracery.io/
+Slug: 1S80KCz5oC
+Lang: fr
+status: published
+
+Tout est dans le titre : ce site permet de créer, par exemple, des bots pour réseaux sociaux
+qui postent des phrases aléatoires basées sur un corpus de vocabulaire et une grammaire.
+
+De ce que je vois, il est aussi possible de générer des images… Ça fait penser à l'[inspirobot](http://inspirobot.me/).
