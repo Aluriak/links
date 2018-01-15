@@ -1,0 +1,19 @@
+Title: N choose K: The best algorithm no one knows about
+Date: 2018-01-15-09:00:00
+Tags: info, math, science
+Authors: https://getkerf.wordpress.com/2016/03/30/the-best-algorithm-no-one-knows-about/
+Slug: Jm0IIoAp1h
+Lang: fr
+status: published
+
+How to pick randomly N items into K, with uniform distribution ?
+
+The straightforward way is to mix the K items randomly, then take the N firsts. But that's long, awful, and infeasible on big datasets (because, you know, you need to get the *full dataset in memory*).
+
+This article explains and show an implementation of the Vitter algorithm,
+published in 1987, achieving a linear time complexity and quasi-constant memory complexity. Yes, you just read that.
+
+I have to say: i had the intuition of that principle since a while, but it is by reading this article i really gain confidence into the intuition. It's intuitive that it works, but to me the proof is hard to achieve.
+
+[I implemented a Python version](https://github.com/Aluriak/linear_choosens), and benchmarked it against other technics,
+founding that my implementation is quicker and more flexible than the one in stdlib as soon as the number of elements is dropping.
