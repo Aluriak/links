@@ -1,4 +1,4 @@
-Title: This page is powered with <em>pelican</em>
+Title: This page is powered with *pelican*
 Date: 2017-08-29-17:50:12
 Tags: meta
 Authors: https://github.com/Aluriak/links
