@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""Add a link in raw format into CSV database.
+
+"""
+
 import os
 import sys
 import csv
