@@ -81,13 +81,21 @@ def publish_link(url:str, title:str, description:str, tags:iter, date:str,
     if html_title.endswith('</p>'):
         html_title = html_title[:-len('</p>')]
 
+    # Complexify the href a little if multiple urls are given
+    href = 'href="{}"'.format(url)
+    if ' ' in url:
+        urls = url.split(' ')
+        if all(url.startswith('http') for url in urls):  # no invalid url
+            jscommands = ''.join("window.open('{}');".format(url) for url in urls[1:])
+            href = 'href="{}" target="_blank" onclick="{}"'.format(urls[0], jscommands)
+
     print(html_title)
     push_on_tweeter(f'https://lucas.bourneuf.net/links/{slug}.html', title)
     with open(filename, 'w', encoding='utf8') as fd:
         fd.write(mkd.format(
         title=html_title,
         slug=slug,
-        url=url,
+        href=href,
         description=description,
         tags=expanded_tags(tags),
         date=date,
