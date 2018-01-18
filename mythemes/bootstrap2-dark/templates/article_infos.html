@@ -1,4 +1,8 @@
-<h1><a {{ article.author }}>{{ article.title }}</a></h1>
+{% if article.author.name.startswith('href=') %}
+    <h1><a {{article.author}}>{{ article.title }}</a></h1>
+{% else %}
+    <h1><a href="{{article.author}}">{{ article.title }}</a></h1>
+{% endif %}
 <br/>
 <abbr class="published" title="{{ article.date.isoformat() }}">
         <i class="fa fa-calendar"></i>
@@ -6,7 +10,11 @@
 </abbr>
 
 &nbsp; &nbsp; <a href="{{ SITEURL }}/{{ article.url }}">permalink</a>
-&nbsp; &nbsp; <a {{ article.author }}>linked site</a>
+{% if article.author.name.startswith('href=') %}
+    &nbsp; &nbsp; <a {{ article.author }}>linked site</a>
+{% else %}
+    &nbsp; &nbsp; <a href="{{ article.author }}">linked site</a>
+{% endif %}
 
 <br/>
 <br/>
