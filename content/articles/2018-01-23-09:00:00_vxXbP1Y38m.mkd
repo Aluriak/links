@@ -1,0 +1,14 @@
+Title: Cool retro term: Fallout like terminal for everyday use
+Date: 2018-01-23-09:00:00
+Tags: repository, terminal, trouvé par @dridk
+Author: href="https://github.com/Swordfish90/cool-retro-term"
+Slug: vxXbP1Y38m
+Lang: fr
+status: published
+
+Un émulateur de terminal qui reproduit les affichage à cathode.
+C'est [retrocomputing](https://retrocomputing.stackexchange.com) qui va être content :)
+
+Pour ceux qui connaissent le jeu Fallout, ça imite à merveille l'affichage du pip-boy :)
+
+Merci à @dridk pour le lien.
