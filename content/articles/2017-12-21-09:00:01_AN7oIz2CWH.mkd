@@ -22,3 +22,47 @@ C'est franchement une très bonne série, avec des interviews d'ingénieurs et s
 Et ça montre bien la complexité impressionnante de ce projet,
 et à quel point tous les domaines d'ingénieurerie et de science
 ont été réquisitionnés pour assurer la réussite.
+
+Dans les commentaires de l'un des épisodes, une question arrive au milieu du troll général :
+
+> I don't understand how a suit can cope with the range of temperatures on the Moon. The temperature on the Moon ranges from daytime highs of about 130°C = 265°F to nighttime lows of about -110°C = -170°F http://www.enchantedlearning.com/subjects/astronomy/moon/ But on this vid it is even quoted as more diverse, ranging between +300 and -300 degrees Fahrenheight.
+
+Et la réponse de Lancer525 :
+
+>   Great question! This is fairly basic thermodynamics, and is pretty much covered in most high school science courses. Or at least, it should be. 
+
+    When dealing with the concepts of temperature and heat (they are two different things after all) one first must understand how heat is transferred from one object to another.  
+
+    There are only three ways that heat is transmitted from a heat source. 
+
+    1) Convection
+
+    2) Radiation
+    3) Conduction.
+
+    Let’s look at those, shall we? 
+
+    1) Convection: That’s when a heat source warms the air, and the molecules of the surrounding air transfers that heat to another object. It’s how certain types of ovens work. Think of it like this: If you are standing in a room that is warm, but with no apparent heat source like a heater or anything, you’re experiencing convection heating. The heat source (the one you can’t see, because it’s in the basement and the ducts from it are transferring that heat to the room) is moving heat to you, by transferring heat from the burner to the molecules of the air, which are transferring their heat to your skin. Good so far?
+
+    2) Radiation: The movement of heat from one place to another by electromagnetic or thermal radiation. An example of thermal radiation is the heat you feel when the sun shines directly on you, or when you stand in front of a fireplace. Not to be confused with Convection heating. This is the easiest one to get, because you’ve stood in a window and felt the sun on one side of your face, but not on the other, because only one side of your face is oriented towards the window. Still with me?
+
+    3) Conduction:  That’s the movement of heat from one object to another one that has different temperature, but only when they are touching each other. The objects have to be in direct contact with each other at all times to allow heat to be conducted from one to another. This is the way we generally get burned. When you put a pan in the oven, and heat the pan and its contents up to 400 degrees, you don’t reach in the oven and pull the pan out, because you’ll have 400 degrees of heat instantly conducted into your skin, resulting in that burn.
+
+    Now for the fun part!
+
+    Given that there’s no air on the moon, convection as a method of heat transfer is out. Put simply, there’s no air to transmit heat, so there’s no convection heating on the moon.
+
+    Conduction heating is out, because most objects did not touch each other, without something in the way, oh, like a pressure suit designed to protect from heat and cold. There were the tools that touched the surface of the moon, but the astronauts didn’t handle those tools without gloves, just like that oven mitt you used to pull that pan out of the 400 degree oven.
+
+    Still with me?
+
+    Radiation could (and did) warm things on the moon, but since everything used by the astronauts was in a white thermal insulation blanket, most of the radiant heat was reflected away from any objects. Wait, what? What are those things that were in white insulation blankets? The suits were white, the blankets around the cameras were white, most of the covers of experiments and instruments were white. There were some things that had layers of kapton or mylar insulation, which is much more efficient in reflecting radiant heat away. A good example is the descent stage of the lunar module, and the visors on the helmets even had a layer of gold to reflect the rays of the sun away.
+
+    Now that we’ve had a basic discussion of thermodynamics, you should have a better understanding of why the suits were white, why there was so much thermal insulation, and how the timing of the landings had a great deal to do with the EVAs that were conducted. All six landings occurred at Lunar Morning. The sun was fairly low on the horizon, not even close to directly overhead, and this caused the surface to not be heated in the same way it would be if the sun were directly overhead. It is fairly complex, but that’s why the landings took place during certain “windows” to avoid these things.
+
+    There’s a relatively well known incident where one of the astronauts, John Young, Commander of Apollo 16, actually suffered an injury from handling a rock. The injury wasn’t serious, but it did point out that the conditions on the moon aren’t remotely like anything we find here on earth. There was a baseball-sized rock that Young had collected on one of the EVAs, that had been under the overhang of another very large boulder. Thus it was in complete shadow, and had been for who knows how many millions of years. Because there is no convection heating, and because the lunar regolith (moon dust has a pretty fancy name) is a very poor conductor of heat, there was also no conduction heating, and so this rock was intensely cold. Young reached into the sample bag with his bare hand to remove this rock, and suffered a “cold burn” from the frozen rock touching his bare skin. It wasn’t a serious or life-threatening injury, but he did get a bit of contact frostbite from that very cold rock touching his hand.
+
+    I hope this explanation answers your question just enough to make you go find a good science book, an even better science teacher, and learn more about it on your own. That’s the way people learn things. It’s a much better way to gain knowledge than listening to the endless hoax proponents one can find infesting comments sections on You Tube.
+
+    You'll find that the science, engineering, and technology are far more amazing and interesting than you will the unscientific and ill-informed opinions of the hoax proponents.
+
