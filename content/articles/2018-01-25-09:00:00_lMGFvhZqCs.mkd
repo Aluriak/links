@@ -1,0 +1,19 @@
+Title: Can (a ==1 &amp;&amp; a== 2 &amp;&amp; a==3) ever evaluate to true?
+Date: 2018-01-25-09:00:00
+Tags: javascript, stackexchange
+Author: href="https://stackoverflow.com/questions/48270127/can-a-1-a-2-a-3-ever-evaluate-to-true"
+Slug: lMGFvhZqCs
+Lang: fr
+status: published
+
+*Play stupid games, win stupid prizes*
+
+Cette stack est intéressante : elle montre plusieurs moyens d'arriver à la même conclusion :
+il est possible d'avoir un code arbitraire qui tourne lors de l'accès à un identifiant ou l'usage d'un opérateur.
+
+Ou, pour certaines réponses qui sont encore plus intéressantes, certains caractères unicodes
+peuvent être utilisés pour faire des identifiants différents bien qu'a priori identiques
+dans du code javascript.
+
+Bref, une belle démo que derrière une question d'interview technique il peut y avoir un test assez subtil
+sur la connaissance d'un langage ou de principes de sécurité.
