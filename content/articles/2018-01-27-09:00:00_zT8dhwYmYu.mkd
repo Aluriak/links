@@ -1,0 +1,25 @@
+Title: Blue Origin: Ride to space onboard Crew Capsule 2.0
+Date: 2018-01-27-09:00:00
+Tags: space, video
+Author: href="https://www.youtube.com/watch?v=6ZJghIk7_VA"
+Slug: zT8dhwYmYu
+Lang: fr
+status: published
+
+Il s'agit d'une vidéo du trajet complet, du lancement à l'atterissage, d'une fusée New Shepard et de la capsule d'équipage.
+
+Pour rappel, Blue Origin, fondée par le fondateur d'Amazon, vise l'exploitation touristique de l'espace en envoyant des gens dans ce genre de capsule, pour ce genre de voyage.
+
+Il s'agit aussi de la première fusée à avoir réattéri après lancement,
+coiffant au poteau SpaceX et sa fusée Falcon 9 (qui, à leur décharge, visait la mise en orbite d'un satellite, ce qui est vachement plus complexe à gérer).
+
+La vidéo est superbe, mais ne retranscrit pas très bien les chocs (parachutes, atterissage), ni les différentes étapes du voyage (coupure des moteurs, découplage, déploiement des parachutes), et les quelques indices dans la vidéo (notamment le son) ne sont pas suffisants pour retranscrire la puissance déployée par la fusée. Une vignette vidéo du sol du même lancement aurait été bienvenue.
+
+Le bruit à l'intérieur est incroyable, et on voit même les traînées de RCS qui permettent de conserver le vaisseau en position. Je suis vraiment fan.
+Et le bruit du moteur ! Des RCS ! La transition bleu-noir !
+
+C'est beau !
+C'est du beau teasing de la part de Blue Origin !
+
+
+(et si vous vous posez des questions sur la trajectoire de la capsule : elle fait juste un saut et reviens de suite, on est donc **très** loin [des problèmes dû à l'orbite, i.e. la vitesse horizontale](https://what-if.xkcd.com/58/))
