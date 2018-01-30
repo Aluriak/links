@@ -1,0 +1,15 @@
+Title: Scaled Solar System in the Desert
+Date: 2018-01-30-09:00:00
+Tags: space, video
+Author: href="https://www.youtube.com/watch?v=Kj4524AAZdE"
+Slug: WhRbQ541YB
+Lang: fr
+status: published
+
+Cette vidéo montre à quel point il est difficile de représenter
+les distances astronomiques.
+
+Avec un drone, des slowmotions pour montrer les orbites, et quelques kilomètres de désert, la visualisation est magnifique !
+
+Une autre représentation à l'échelle de notre système solaire est faite
+[en suède](http://www.laboiteverte.fr/systeme-solaire-suedois/) : sur 1500 kilomètres, les principaux astres du système sont reproduits en distances et en taille.
