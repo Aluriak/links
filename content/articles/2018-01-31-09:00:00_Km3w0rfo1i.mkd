@@ -1,0 +1,18 @@
+Title: AMP text editor
+Date: 2018-01-31-09:00:00
+Tags: info, rust, text, text editor
+Author: href="https://amp.rs/"
+Slug: Km3w0rfo1i
+Lang: fr
+status: published
+
+La communauté Rust fait régulièrement des sorties intéressantes, et en voici une :
+un éditeur qui va complètement à l'opposer de la philosophie actuelle :
+léger, efficace, vim-like et sans plugins.
+
+Il faut bien voir aussi qu'il reste (et restera) un petit éditeur :
+hors de question d'avoir un langage de commande comme vim
+(déjà ya le modal, c'est pas mal).
+
+Ça peut être une bonne alternative au bloc-note,
+nano et autres éditeurs un peu trop simples/datés.
