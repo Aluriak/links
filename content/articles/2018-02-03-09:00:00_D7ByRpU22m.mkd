@@ -1,0 +1,14 @@
+Title: Earth and Jupiter from Mars
+Date: 2018-02-03-09:00:00
+Tags: photo, space
+Author: href="http://www.msss.com/mars_images/moc/2003/05/22/"
+Slug: D7ByRpU22m
+Lang: fr
+status: published
+
+[Cette photo](http://www.msss.com/mars_images/moc/2003/05/22/earth_jupiter_100.jpg)
+fût prise par la sonde [Mars Global Surveyor](https://fr.wikipedia.org/wiki/Mars_Global_Surveyor),
+en orbite autour de Mars.
+
+Ce qu'on y voit est impressionnant : la Terre et Jupiter qui semble être à côté : le jeu des perspectives est trompeur, évidemment,
+et expliqué [ici](http://www.msss.com/mars_images/moc/2003/05/22/orbits.gif).
