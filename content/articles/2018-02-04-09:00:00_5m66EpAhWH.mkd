@@ -1,0 +1,19 @@
+Title: Liste d'idées reçues : croyances populaires diverses
+Date: 2018-02-04-09:00:00
+Tags: list, text
+Author: href="https://fr.wikipedia.org/wiki/Liste_d%27id%C3%A9es_re%C3%A7ues"
+Slug: 5m66EpAhWH
+Lang: fr
+status: published
+
+C'est une de mes pages préférées sur wikipédia : une gigantesque liste triée de fausses connaissances
+pourtant ancrées dans la culture.
+
+Pêle-mêle, on en apprend sur les bourdons, les tournesols, le nombre de sens chez l'homme et les autruches.
+Les croyances ainsi mises en défaut sont a posteriori évidentes, mais les explications ou remises en contexte sont éclairantes, voire utiles.
+
+La seule en informatique qui est listée est que, non,
+les OS unix-like ne sont pas immunisés aux virus et autres programmes malveillants.
+Des fois que cette vérité vous frappe, je vous renvois vers [ce tuto](http://linuxfr.org/news/un-peu-plus-de-securite-sous-linux).
+
+La [page en anglais](https://en.wikipedia.org/wiki/List_of_common_misconceptions) est un poil plus fournie.
