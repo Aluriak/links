@@ -1,0 +1,23 @@
+Title: http://pyvideo.org/north-bay-python-2017/import-madness-how-to-implement-mergesort-from-scratch-using-only-import-statements.html
+Date: 2018-02-05-09:00:00
+Tags: info, python, text, video
+Author: href="Import madness: implement mergesort with import statements instead of functions"
+Slug: LHegrppZy7
+Lang: fr
+status: published
+
+L'idée est assez simple : utiliser les modules et leur exécution à l'import pour implémenter un algo récursif.
+C'est une belle démonstration (pleine d'humour en sus) du fonctionnement du système d'import.
+
+L'auteur explique bien les bases, puis montre comment utiliser les modules comme des fonctions,
+avec un passage d'argument via regex (bon, ça aurait pu être fait avec un bête template, ç'eût été plus simple).
+
+Notez bien que ça revient à faire `exec` sur une string, mais en utilisant `import` à la place d'exec
+et en mettant un fichier et non un code source en entrée.
+Je suis un peu déçu en fait ; le titre laissait à penser qu'il était possible de n'utiliser que des imports,
+là où en réalité il s'agit de substituer un objet par un autre.
+
+C'est pédagogiquement très bon, donc je recommande vivement à ceux qui ne connaissent pas trop les principes d'imports.
+Je vous recommande aussi [la doc d'importlib](https://docs.python.org/3/library/importlib.html), il a beaucoup d'autre choses a apprendre.
+
+[Version texte](http://pyvideo.org/north-bay-python-2017/import-madness-how-to-implement-mergesort-from-scratch-using-only-import-statements.html) sur le blog perso de l'auteur.
