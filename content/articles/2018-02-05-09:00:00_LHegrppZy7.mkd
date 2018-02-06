@@ -1,7 +1,7 @@
-Title: http://pyvideo.org/north-bay-python-2017/import-madness-how-to-implement-mergesort-from-scratch-using-only-import-statements.html
+Title: Import madness: implement mergesort with import statements instead of functions
 Date: 2018-02-05-09:00:00
 Tags: info, python, text, video
-Author: href="Import madness: implement mergesort with import statements instead of functions"
+Author: http://pyvideo.org/north-bay-python-2017/import-madness-how-to-implement-mergesort-from-scratch-using-only-import-statements.html
 Slug: LHegrppZy7
 Lang: fr
 status: published
