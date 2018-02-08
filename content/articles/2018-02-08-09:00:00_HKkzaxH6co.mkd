@@ -1,0 +1,21 @@
+Title: Programming Sucks
+Date: 2018-02-08-09:00:00
+Tags: programming, text
+Author: href="http://www.stilldrinking.org/programming-sucks"
+Slug: HKkzaxH6co
+Lang: fr
+status: published
+
+[Traduction en français](https://alexisbrenon.github.io/blog/technique/2015/04/21/Programming_sucks.html).
+
+Beaucoup de choses très pertinentes… Dans l'univers du développement web, je n'en doute pas.
+
+Beaucoup de détails sont vrais partout (l'analogie du pont est excellente),
+mais en dehors du web, les problèmes me semblent quand même moins pesants.
+
+Pour les morceaux de codes présenté, le dernier est un morceau de Perl,
+qui a été élu [le code le plus obfusqué](http://www.foo.be/docs/tpj/issues/vol5_3/tpj0503-0014.html)
+du cinquième concours d'obfusquation de code perl.
+(Merci [u/truh](https://www.reddit.com/r/AskProgramming/comments/7pgjyh/from_where_is_this_code_found_in_the_famous) pour l'info)
+
+Une autre lecture du même genre, peut-être encore plus drôle, est [*To wast it all away*](https://www.usenix.org/system/files/1403_02-08_mickens.pdf) de James Mickens.
