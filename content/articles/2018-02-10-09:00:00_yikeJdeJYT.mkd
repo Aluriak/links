@@ -1,0 +1,17 @@
+Title: Explorables explanations
+Date: 2018-02-10-09:00:00
+Tags: game, learning, text, video
+Author: href="http://explorabl.es/"
+Slug: yikeJdeJYT
+Lang: fr
+status: published
+
+Des explications interactives sur toute sortes de sujets.
+
+J'ai beaucoup aimé [the parable of polygons](http://ncase.me/polygons/),
+et surtout [the evolution of trust](http://ncase.me/trust/),
+qui explique avec brio les principes de stratégie de confiance,
+et comment les moyens de communication d'aujourd'hui la transforme.
+
+Ça rappelle un peu les [animagraffes](https://lucas.bourneuf.net/links/hQt4rYBQP3.html),
+mais en plus interactif.
