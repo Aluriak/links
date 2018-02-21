@@ -1,0 +1,18 @@
+Title: How CERN scaled up Eclipse for the LHC
+Date: 2018-02-21-09:00:00
+Tags: info, lhc, physic
+Author: href="https://www.youtube.com/watch?v=BYAWgEVflUY"
+Slug: Oh44xFYtGQ
+Lang: fr
+status: published
+
+En visitant le CERN récemment, j'ai pris la mesure de ce gigantesque labo : ils font vraiment tout eux-même,
+pas seulement des [synchrotrons](https://fr.wikipedia.org/wiki/Grand_collisionneur_de_hadrons).
+
+[Des robots](https://home.cern/about/updates/2015/12/meet-cern-robots), un système informatique complet,
+ou encore la construction complète d'[un détecteur plus lourd que la tour eiffel 30 mètres sous terre](https://fr.wikipedia.org/wiki/ALICE%20(exp%C3%A9rience)).
+
+Et comme indiqué dans le lien de ce billet : des modifications de projets existants
+pour accuser les besoins.
+
+C'est presque plus impressionnant que le LHC lui-même !
