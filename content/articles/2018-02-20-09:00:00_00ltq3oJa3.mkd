@@ -7,8 +7,8 @@ Lang: fr
 status: published
 
 Dans la série des blagues de programmeurs, après [fizzbuzz *enterprise edition*](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition),
-[marcel le docker français](https://github.com/brouberol/marcel), [spacekim.io](https://spacekim.io/),
-voici *nocode*, pour écrire du code sécurisé, scalable et 
+[marcel le docker français](https://github.com/brouberol/marcel), [spacekim.io](https://spacekim.io/), [libtrue](https://github.com/libtrue/libtrue),
+voici *nocode*, pour écrire du code sécurisé, scalable et déployable facilement.
 
 Comme souvent, le plus drôle, ce sont [l](https://github.com/kelseyhightower/nocode/issues/1705)[e](https://github.com/kelseyhightower/nocode/issues/1685)[s](https://github.com/kelseyhightower/nocode/issues/1733) [i](https://github.com/kelseyhightower/nocode/issues/1728)[s](https://github.com/kelseyhightower/nocode/issues/1890)[s](https://github.com/kelseyhightower/nocode/issues/1885)[u](https://github.com/kelseyhightower/nocode/issues/1869)[e](https://github.com/kelseyhightower/nocode/issues/1852)[s](https://github.com/kelseyhightower/nocode/issues/1853) [:](https://github.com/kelseyhightower/nocode/issues/1838)[)](https://github.com/kelseyhightower/nocode/issues/1828) 
 
