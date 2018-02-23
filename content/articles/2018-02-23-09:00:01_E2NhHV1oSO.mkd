@@ -1,0 +1,10 @@
+Title: Demonstration of Acceleration Inside the International Space Station During a Reboost
+Date: 2018-02-23-09:00:01
+Tags: physic, space, video
+Author: href="https://www.youtube.com/watch?v=8MR3daaWLXI"
+Slug: E2NhHV1oSO
+Lang: fr
+status: published
+
+L'altitude de l'ISS évolue énormément, comme montré dans [ce graphique](http://heavens-above.com/IssHeight.aspx) de l'altitude en fonction du temps.
+Les augmentations bien verticales correspondant aux *reboosts*, dont l'un d'entre eux est montré dans la vidéo linkée.
