@@ -1,0 +1,12 @@
+Title: Turing machine in wood
+Date: 2018-02-26-09:00:00
+Tags: info, turing machine, video
+Author: href="https://www.youtube.com/watch?v=vo8izCKHiF0"
+Slug: A89sMZ9AD2
+Lang: fr
+status: published
+
+On trouve beaucoup de vidéos de machines de Turing implémentées physiquement,
+en [LEGO mindstorm par exemple](https://www.youtube.com/watch?v=FTSAiF9AHN4).
+
+Celle-ci est en bois, et viens avec une documentation complète de 15 pages \o/
