@@ -1,0 +1,15 @@
+Title: The sinful engineer
+Date: 2018-02-27-09:00:00
+Tags: info, joke, video
+Author: href="https://www.youtube.com/channel/UCESquULuc1z__o1EjEXfCzQ"
+Slug: qLFuiWb9NC
+Lang: fr
+status: published
+
+Des explications, des tutos, il y a de tout !
+Si vous cherchiez de l'humour de développeur… Vous pouvez commencer là :)
+Des fois, c'est [du gros trol](https://www.youtube.com/watch?v=GMBvkOtoBcY)[l](https://www.youtube.com/watch?v=VJga1mZygxA), parfois c'est [de la satyre](https://www.youtube.com/watch?v=kGk4jqmOjwM),
+et le reste, c'est souvent [des tutos](https://www.youtube.com/watch?v=ouwGF0P-qDA) [un peu trop lucides](https://www.youtube.com/watch?v=RubJ0BtTYGU).
+
+De temps en temps, il y a des vidéos sérieuses, comme [celle-ci](https://www.youtube.com/watch?v=RubJ0BtTYGU) sur des conseils aux débutants en programmation.
+Cette vidéo est particulièrement de bon conseil :)
