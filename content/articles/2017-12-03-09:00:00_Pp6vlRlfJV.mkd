@@ -13,10 +13,10 @@ It's not just about refuelling the ISS, it's also that *any* project SpaceX do, 
 
 To me, it shows that spatial agencies, that tends to be tightly coupled with an awfully heavy and changing bureaucracy, are not adapted to the reality of space: costs are engaged on years, and need a continuous support.
 
-Space agencies, especially NASA, have a real problem with that, because any change of bureaucratic lead will reorganize the founding, cancelling projects to the profit of anothers, that will be shutdown few years later (*no, it's not a shutdown, it's just that 99% of ressources working on it are know used for that other new shiny project*).
+Space agencies, especially NASA, [have a real problem with that](https://www.reddit.com/r/space/comments/80ey8a/now_included_within_nasas_budget_the_lunar/duwcqrx/?st=je8iaqbw&sh=c8e8c25d), and any change of bureaucratic lead will reorganize the founding, cancelling projects to the profit of anothers, that will be shutdown few years later (*no, it's not a shutdown, it's just that 99% of ressources working on it are know used for that other new shiny project*).
 
 The rise of private compagnies is a simple way to circumvent the problem,
-since the space agencies are usually good at giving direction and research boosts in many fields.
+since the space agencies are usually good at giving direction and research boosts in many fields, but is too coupled with politics to get a realistic plan maintained over the years.
 
 You can find the official page relying the paper and its presentation [here](https://science.ksc.nasa.gov/shuttle/nexgen/rlvhp.htm).
 

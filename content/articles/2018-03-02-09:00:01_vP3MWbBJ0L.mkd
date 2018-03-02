@@ -1,0 +1,20 @@
+Title: Grace Hopper courses
+Date: 2018-03-02-09:00:01
+Tags: info, video
+Author: href="https://www.youtube.com/watch?v=ZR0ujwlvbkQ"
+Slug: vP3MWbBJ0L
+Lang: fr
+status: published
+
+[Grace Hopper](https://fr.wikipedia.org/wiki/Grace_Hopper), inventrice de COBOL et du premier compilateur au sens général du terme,
+donnait des cours. Certains ont été filmés, et celui-ci est dispo sur internet !
+
+Il existe aussi quelques morceaux choisi, [par exemple celui-ci](https://www.youtube.com/watch?v=JEpsKnWZrJ8),
+où elle donne une manière de comprendre réellement ce qu'est une nanoseconde,
+l'unité de temps pour les ordinateurs, encore aujourd'hui.
+
+Dans la conf linkée, Hopper parle de sujets encore aujourd'hui beaucoup d'actualité : les données (prédisant l'arrivée du *big data*),
+et les méthodes et moyens nécessaires pour en tirer de l'information.
+Beaucoup de vocabulaire utilisé aujourd'hui existait déjà à l'époque. Ça donne un peu l'impression que depuis, on a surtout inventé des synonymes.
+
+*information is an asset.*
