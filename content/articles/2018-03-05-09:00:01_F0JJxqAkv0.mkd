@@ -1,0 +1,16 @@
+Title: Avoid and break cliques in events
+Date: 2018-03-05-09:00:01
+Tags: conference, info, social
+Author: href="http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/"
+Slug: F0JJxqAkv0
+Lang: fr
+status: published
+
+Eric Holscher donne deux règles intéressantes, et les conseils qui en découlent,
+tant pour les organisateurs que les participants à des conférences (ou des évènements sociaux en génénal).
+
+Sont proposées les règles [du pacman](http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/#pac-man-rule)
+et [de la communauté++](http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/).
+
+C'est très simple, et potentiellement très efficace.
+Ça a eu [un bel écho](https://www.youtube.com/watch?v=Oiw23yfqQy8#t=26m10s) dans une conf sur python.
