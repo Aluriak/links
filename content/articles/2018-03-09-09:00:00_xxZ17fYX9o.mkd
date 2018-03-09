@@ -1,0 +1,14 @@
+Title: TLA+ explained by Leslie Lamport
+Date: 2018-03-09-09:00:00
+Tags: info, tla+, tuto
+Author: href="http://lamport.azurewebsites.net/video/intro.html"
+Slug: xxZ17fYX9o
+Lang: fr
+status: published
+
+[Leslie Lamport](https://en.wikipedia.org/wiki/Leslie_Lamport) est un chercheur que je connais pour son travail en systèmes distribués,
+en [traitement de texte](https://fr.wikipedia.org/wiki/LaTeX), et pour son langage mathématique d'une grande expressivité nommé [TLA+](https://en.wikipedia.org/wiki/TLA%2B),
+qu'il considère en gros comme [le B.A.-BA en informatique](http://lamport.azurewebsites.net/tla/math-knowledge.html).
+
+Ces vidéos sont là pour nous permettre de nous rattraper,
+nous les informaticiens bloqués par la moindre ligne écrite en grec :)
