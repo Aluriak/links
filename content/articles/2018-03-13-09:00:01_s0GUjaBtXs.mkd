@@ -1,0 +1,14 @@
+Title: History, principles, DP and finally everything about APL
+Date: 2018-03-13-09:00:01
+Tags: apl, info
+Author: href="https://sway.com/b1pRwmzuGjqB30On"
+Slug: s0GUjaBtXs
+Lang: fr
+status: published
+
+Je découvre qu'APL n'est pas qu'un langage de golfing, mais surtout un dérivé de l'article
+[*Notation as a tool of thought* d'Iverson](http://www.jsoftware.com/papers/tot.htm).
+
+Si quelqu'un connaît APL et TLA+, je serais très curieux de connaître les différences entre les deux,
+vu qu'ils sont tout les deux orientés comme un langage profitant des notations mathématiques
+pour s'assurer une grande (et impressionnante) expressivité.
