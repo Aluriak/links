@@ -1,0 +1,9 @@
+Title: MOOC sur la protection de la vie privée
+Date: 2018-03-17-09:00:01
+Tags: info, mooc, video
+Author: href="https://www.fun-mooc.fr/courses/course-v1:inria+41015+session01/about"
+Slug: QFglQHmjUW
+Lang: fr
+status: published
+
+
