@@ -6,7 +6,7 @@ Slug: 7HkLnEdGNc
 Lang: fr
 status: published
 
-Un fermier américain qui a l'aide de drones, et dans ce cas précis d'un satellite d'imagerie, écris des lettres avec ses vaches.
+Un fermier américain qui à l'aide de drones, et dans ce cas précis d'un satellite d'imagerie, écrit des lettres avec ses vaches.
 
 La série de vidéo est sympa, et sur sa chaîne il y a d'autres séries, notament des reprises musicales
 et [d'autres jeux avec ses vaches](https://www.youtube.com/watch?v=D0hVsYg87fs).
