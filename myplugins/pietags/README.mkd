@@ -1,0 +1,5 @@
+# Pietag
+Pelican plugin for pie chart representation of tags.
+
+
+Needs plotly. Install it with `pypi install plotly` or alike.
