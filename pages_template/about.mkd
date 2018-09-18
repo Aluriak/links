@@ -9,6 +9,7 @@ status: published
 Number of published link: {published_links}  
 Number of yet unpublished link: {remaining_links}  
 
+{pietags}
   
 
 I had hundreds of links, waiting for me to do something about them.

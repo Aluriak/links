@@ -1,0 +1,11 @@
+Title: smenu: terminal utility to create easy to the eye selections
+Date: 2018-01-28-09:00:01
+Tags: terminal, tools
+Author: href="https://github.com/p-gen/smenu"
+Slug: imdB9HiAfO
+Lang: fr
+status: published
+
+C'est efficace et super bien fichu !
+
+Ya même une scrollbar…

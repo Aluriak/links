@@ -1,0 +1,15 @@
+Title: Tutorial to make and understand your own personal statusline in vim
+Date: 2018-03-12-09:00:01
+Tags: tuto, vim
+Author: href="https://hackernoon.com/the-last-statusline-for-vim-a613048959b2"
+Slug: iBgJnlvsps
+Lang: fr
+status: published
+
+Parce que le nombre de module pour réinventer la roue est énorme, parce que finalement, la seule qui fonctionne réellement est celle par défaut :
+voici un tuto pour comprendre comment utiliser vim.
+
+Et si un jour je me sens l'âme du Joker, j'utiliserais ce tuto pour faire *deadline*,
+un autre plugin qui permet de faire des statusline pour vim.
+Vu le nom, il faudra que ce soit la dernière nécessaire… J'ignore ce que pourrait proposer *deadline* en matière de fonctionnalité…
+Peut-être copier coller le tuto linké et dire que c'est la doc ?

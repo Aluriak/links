@@ -1,0 +1,80 @@
+Title: Is NASA a waste of money ?
+Date: 2018-02-16-09:00:00
+Tags: space, video
+Author: href="https://www.youtube.com/watch?v=lARpY0nIQx0"
+Slug: oAp6kkQOcx
+Lang: fr
+status: published
+
+Alors que les politiques se demandent comment endiguer la fuite des cerveaux,
+une critique revient souvent : quel intérêt de financer l'exploration spatiale, qui coûte *si chère* ?
+
+La critique est inévitable, car les agences ne sont pas très prolixes à ce sujet,
+étant donné puisqu'il est très difficile d'estimer le retour sur investissement d'un organisme de recherche qui fait de la recherche publique,
+puisque la grande majorité des recherches finissent dans le domaine public, et donc sont utilisées partout, mais sans que personne ne soit obligé de l'indiquer.
+D'autant que ces recherches, sont, dans beaucoup de cas, sous la forme de papier écris que généralement seuls les scientifiques et ingénieurs lisent.
+
+C'est le même problème avec tous les organismes de recherche fondamentale, comme le [LHC](https://fr.wikipedia.org/wiki/Grand_collisionneur_de_hadrons) par exemple.
+La grosse différence, c'est que leurs résultats sont très spécialisés, et qu'il n'y a rien de grandiloquant à filmer,
+contrairement au spatial ou l'on peut voir les dizaines de millier d'euros brûler et partir en fumée depuis le moteur qui décolle vers l'espace pour ne souvent jamais revenir.
+Dans les deux cas (spatial et physique), les résultats sont globalement peu tangibles, mis à part quelques annonces qu'il est possible de vulgariser
+(comme l'observation d'eau sur Mars ou du boson de Higgs).
+
+Pourtant, la recherche fondamentale est (comme son nom l'indique bien qu'il s'agisse là de polysémie) fondamentale. Ce que nous oublions facilement quand nous survivons
+à un accident grâce à une ceinture de sécurité ou participons à une IRM.
+
+Pour un exemple moins standard : j'ai récemment vu un papier de chercheurs du CERN (l'organisme de recherche qui exploite le LHC) à propos d'une nouvelle technique de clustering,
+devenue nécessaire suite à la construction d'un détecteur.
+Ça paraît pas évident, mais le clustering c'est une technique hyper générale qui est utilisée partout, dans tous les domaines. Par exemple par les médecins pour détecter les malades.
+Ou les algos d'apprentissage pour pouvoir trier des fichiers automatiquement.
+Je ne sais pas si cet algo précis a été transféré dans d'autres domaines, mais il faut bien comprendre que si des milliers de personnes travaillent dans un labo, c'est pas pour faire une découverte tous les 10 ans. Il y a en permanence de nouveaux papiers publiés. Le boson de Higgs, l'eau sur Mars,… Ce n'est qu'une infime partie du produit de la recherche.
+
+
+### Argument général
+Discours standard qui fait pousser des soupirs à l'auditoire :
+
+Le spatial, l'exploration et la recherche en général, c'est une manière de faire rêver, et d'inspirer les prochaines générations.
+Bien des génies n'ont été révélés que parce qu'ils ont été inspirés par un problème non pas motivé par des raisons économiques,
+mais par la curiosité, la volonté de découvrir des choses que l'on ne connaît pas encore.
+
+Variation pour mieux faire passer le message :
+
+Demandez à des scientifiques, des explorateurs, des curieux : non, ce n'est pas l'argent ou la gloire qu'ils cherchent. La majorité des scientifiques ont un niveau d'étude ridiculement haut pour la paye qu'ils recoivent en fin de mois. Ils s'en plaignent ? Pas tant que vous leur donnez ce qu'il faut pour faire leurs recherches.
+Personnellement, en tant que bioinformaticien, j'ai travaillé avec des biologistes sur des données de cancer. Eh bien, croyez-le ou non, trouver un début de traitement à un cancer, je m'en temponnais le coquillard. C'était même pas un objectif secondaire ni même tertiaire de mon travail de recherche. Et si ça arrivait, ç'eût été un effet de bord inattendu, et ça m'aurait mis en retard donc je l'aurais laissé aux biologistes.
+Par contre, ce qui m'intéressais, c'était que les données avaient une tronche particulière, étaient bien annotées, et donc qu'ils y avait moyen d'appliquer des méthodes matheuses qui m'intéressaient dessus, ce qui permettrait d'améliorer la connaissance du système étudié.
+Si c'est le bidule à propos du cancer qui vous intéresse, tant mieux pour nous tous : je m'amuse, ça aide des biologistes qui pourront trouver plus facilement des solutions à des problèmes qui petits à petits permettrons à une équipe spécialisée de trouver un début de traitement pour je ne sais quelle maladie (ah, oui, désolé, la réalité est loin d'hollywood où un «scientifique» peut pondre un *deus ex machina* en 5 secondes).
+L'alternative moins coûteuse, c'est que je ne m'amuse pas, donc que je n'aide pas les biologistes (mais du coups on a gagné un peu d'argent… probablement suffisamment pour refaire l'isolation d'une maison !).
+C'est pareil pour le spatial : l'argent que nous investissons dedans, c'est de l'argent pour des esprits qui veulent bosser sur des sujets qui les intéressent
+et qui ont des retombées pour tous. Et parce qu'on les paye nous-même, on a l'assurance que cette recherche sera contrôlable et *publique*.
+Payer des esprits géniaux, ça paye sur le long-terme (ah ben oui, c'est sur le long-terme, hein, la recherche c'est long. Encore une fois, on est pas à hollywood).
+
+
+### À propos de l'ESA
+Pour l'ESA, le budget est de [5.2 milliard d'euros en 2016](http://www.esa.int/spaceinimages/Images/2016/01/ESA%20budget%202016%20by%20domain),
+soit un peu plus d'un quart de celui de la NASA.
+
+Différentes estimations montrent qu'elle est, pour la grande-bretagne, globalement rentable en bénéfices directs (3-4 livres gagnées pour chaque livre investie)
+et très rentable dans le privé (plus de 10 livres gagnée pour chaque livre investie).
+
+Je n'ai rien trouvé pour les autres pays ; ce genre d'étude ne se bouscule pas, ou date beaucoup.
+
+En sus, [une étude](http://gsp.esa.int/documents/10192/43064675/C21809ExS.pdf) de [l'organisme d'étude de l'ESA](https://gsp.esa.int),
+indique, entre autre, que l'agence est aussi [un incubateur à collaborations](http://www.esa.int/Our_Activities/Space_Science/Cassini-Huygens/International_collaboration),
+entre autre dû au fait que la moindre sonde envoyée dans l'espace embarque une grande quantité d'appareils, tous développés dans des pays différents,
+et permettant à [des équipes internationales de publier](https://www.cosmos.esa.int/web/planck). Sans compter que la conception des charges utiles
+sont faites par des entreprises de l'aéronautique, comme Safran et Airbus, impliquant souvent d'autres sociétés d'autres domaines comme CapGemini,
+et envoyée par Arianespace (société privée très proche de l'ESA,
+pendant des décennies et encore aujourd'hui le leader de la mise en orbite de charges utiles).
+
+Personnellement, j'estime que vu les retombées technologiques et les efforts internationaux issus de la recherche dans ce domaine,
+ça vaudrait le coups de continuer, même si c'était plus cher.
+(après tout, des coopérations entre pays qui ne visent pas à se taper dessus, c'est assez rare pour être noté ; sans compter que ça évite aux pays concernés de chacun chercher de son côté, alors qu'une coopération est possible ; c'est l'un des rôle de l'ESA que d'unifier ainsi la recherche européenne)
+
+Bref, ça nous permet de faire une surveillance planétaire, donc de comprendre pas mal de choses sur notre planète
+et [l'environnement en général](https://cnes.fr/fr/climat-sadapter-aux-changements-grace-au-spatial),
+de [supporter l'éducation](http://www.esa.int/Education/ESA%20at%20the%20forefront%20of%20space%20education),
+de [mettre en place un GPS plus performant](http://www.esa.int/Our_Activities/Navigation/Galileo/What%20is%20Galileo),
+de comprendre l'univers dans lequel on existe,
+et enfin de faire rêver les prochaines générations.
+
+C'est pas trop mal pour [0.03% du PIB européen](http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Fweo%2F2012%2F01%2Fweodata%2Fweorept.aspx%3Fpr.x%3D47%26pr.y%3D20%26sy%3D2010%26ey%3D2014%26scsm%3D1%26ssd%3D1%26sort%3Dcountry%26ds%3D.%26br%3D1%26c%3D998%26s%3DNGDP_RPCH%252CNGDPD%252CPPPPC%26grp%3D1%26a%3D1).

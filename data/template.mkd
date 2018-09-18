@@ -1,7 +1,7 @@
 Title: {title}
 Date: {date}
 Tags: {tags}
-Authors: {href}
+Author: {href}
 Slug: {slug}
 Lang: {lang}
 status: {status}

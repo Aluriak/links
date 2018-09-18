@@ -21,6 +21,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+STATIC_PATHS = ['images/']
+
 DEFAULT_METADATA = {
     'tags': 'undefined',
     'status': 'draft',
@@ -41,6 +43,7 @@ for page_template in glob('pages_template/*.mkd'):
         ofd.write(ifd.read().format(
             remaining_links=REMAINING_LINKS,
             published_links=PUBLISHED_LINKS,
+            pietags=open('data/pietags.html').read()
         ))
     print('Page {} generated.'.format(page_name))
 
@@ -99,6 +102,7 @@ PLUGINS = [
     'sitemap',  # cf SITEMAP var
 
     # My plugins
+    'pietags',
 ]
 
 

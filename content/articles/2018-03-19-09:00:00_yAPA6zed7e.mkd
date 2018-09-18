@@ -1,0 +1,18 @@
+Title: OVERVIEW: SpaceEngine based VR experience
+Date: 2018-03-19-09:00:00
+Tags: space, video game, vr
+Author: href="http://store.steampowered.com/app/751110/OVERVIEW/"
+Slug: yAPA6zed7e
+Lang: fr
+status: published
+
+Le développeur de SpaceEngine, Vladimir Romanyuk, s'est associé pendant un an avec la firme française [Orbital Views]() pour le projet OVERVIEW.
+Le concept : utiliser le moteur de SpaceEngine pour faire une expérience dédiée pour la VR.
+
+L'intérêt est énorme, puisqu'en sus du nouveau jeu VR orienté espace *réaliste* (puisque basé sur SpaceEngine),
+SpaceEngine lui-même profite des améliorations côté VR, et d'une partie des bénéfices sur les ventes d'OVERVIEW.
+
+C'est génial !
+
+[Le post de blog](http://spaceengine.org/news/blog180302/) où Vladimir parle de ce projet, qui va potentiellement recevoir
+[un award dans les prochains jours](http://spaceengine.org/news/blog180310/) (du coups, OVERVIEW gagne au moins 20000 dollars… Du financement pour SpaceEngine, en somme !).

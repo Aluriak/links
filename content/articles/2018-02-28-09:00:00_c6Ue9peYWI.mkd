@@ -1,0 +1,12 @@
+Title: ORBIT - A Journey Around Earth in Real Time
+Date: 2018-02-28-09:00:00
+Tags: space, video
+Author: href="https://www.youtube.com/watch?v=Xjs6fnpPWy4"
+Slug: c6Ue9peYWI
+Lang: fr
+status: published
+
+Recette : prenez une partie du livestream de l'ISS, faites un peu de postprocessing pour améliorer la vue,
+et collez dessus une collection de musique électronique downtempo.
+
+Des résultats, il y en a plein youtube, et c'est super pour regarder en tâche de fond.

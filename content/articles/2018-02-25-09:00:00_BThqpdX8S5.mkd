@@ -1,0 +1,22 @@
+Title: Why physicists still use Fortran
+Date: 2018-02-25-09:00:00
+Tags: info, physic, text
+Author: href="http://moreisdifferent.com/2015/07/16/why-physicsts-still-use-fortran/"
+Slug: BThqpdX8S5
+Lang: fr
+status: published
+
+Beaucoup de bons arguments dedans. Même si certains arguments sont fallacieux : une codebase sans tests et non-relue, c'est dangereux. Point.
+En bioinfo, des bugs qui travestissent les résultats, c'est tous les jours. Ça m'étonnerait que ce soit très différent en physique.
+
+Si il y a bien un truc qui ne s'apprend pas dans une formation de 20h dans un langage ou en triturant du code de collègues ayant eux-même eu 20h de formation,
+c'est comment faire du logiciel propre.
+Et je sais qu'en bioinfo, on en est vraiment *très* loin.
+
+Je vais peut-être passer pour un illuminé, mais un code non testé sur des cas standards et réfléchis, non relus et non approuvé,
+ça relève de la croyance, pas de la méthode scientifique. Et en ce moment, dans certains domaines,
+on assiste à la création d'une nouvelle religion organisée qui consiste essentiellement à avoir confiance en un programme
+parce qu'il génère les résultats attendus.
+
+Il est passé où, le doute de principe ?
+Elle est passée où, la méthode scientifique ?

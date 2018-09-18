@@ -1,0 +1,15 @@
+Title: Gource: versionalized code source visualization
+Date: 2018-02-09-09:00:00
+Tags: info, tools, video
+Author: href="http://gource.io/"
+Slug: 939uunTDKH
+Lang: fr
+status: published
+
+Un générateur de vidéo qui prend en entrée un dépôt git, par exemple celui de [CPython](https://github.com/python/cpython),
+et qui produit une vidéo de l'évolution du dépôt, par exemple [celui de CPython](https://www.youtube.com/watch?v=tZVG57xFwMk),
+où l'on voit bien Guido van Rossum démarrer le projet, rejoins en quelques années par d'autres dévelopeurs qui vont au début s'occuper de tâches spécifiques (on voit très bien le port mac),
+de nouvelles ramifications, et finalement le nombre de contributeur qui explose en 2008.
+
+Oui, cette visualisation n'est pas très utile, mais c'est absolument génial. C'est un véritable plaisir de faire tourner ça sur ses projets persos.
+Voir votre nom s'activer autour des fichiers sur lesquels vous avez tant usé vos yeux est franchement inattendu.

@@ -1,0 +1,10 @@
+Title: Animagraffs: 360° visualization of everyday objects
+Date: 2018-01-29-09:00:00
+Tags: text, tuto, video
+Author: href="https://animagraffs.com/"
+Slug: hQt4rYBQP3
+Lang: fr
+status: published
+
+Comment marche un lecteur vinyle ? [Voici des animations !](https://animagraffs.com/record-player/)
+Comment marche l'œil humain ? [D'autres animations !](https://animagraffs.com/human-eye/)

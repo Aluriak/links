@@ -1,0 +1,11 @@
+Title: sqlite2dot: dot visualization of sqlite database
+Date: 2018-01-20-09:00:00
+Tags: graph, info, script
+Author: href="https://github.com/FredrikKarlssonSpeech/sqlite2dot"
+Slug: PB4BvxU6BW
+Lang: fr
+status: published
+
+Un petit programme vraiment utile, qui sort de bon résultats bien aidant.
+
+Un bel usage du dot :)

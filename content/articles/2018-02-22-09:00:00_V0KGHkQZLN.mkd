@@ -1,0 +1,11 @@
+Title: Dogelang. Slow. Stupid. Absolutely adorable.
+Date: 2018-02-22-09:00:00
+Tags: info, language, python, text
+Author: href="https://pyos.github.io/dg/"
+Slug: V0KGHkQZLN
+Lang: fr
+status: published
+
+Une idée super : faire un langage qui compile vers le bytecode CPython.
+
+Le site est hilarant, [encore une blague de programmeur](https://lucas.bourneuf.net/links/00ltq3oJa3.html) !

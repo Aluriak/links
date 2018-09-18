@@ -1,0 +1,20 @@
+Title: Argüman: argument analysis platform
+Date: 2018-01-24-09:00:00
+Tags: internet, logic
+Author: href="http://en.arguman.org/"
+Slug: mCROjbZWvl
+Lang: fr
+status: published
+
+Il s'agit d'une interface web pour une méthode d'analyse d'argumentation,
+qui en théorie permet de définir formellement la véracité d'une proposition.
+
+En pratique, le site souffre de plusieurs problèmes, le principal étant
+que lorsqu'un membre utilise mal les constructions possible (un *but* à la place d'un *because* par exemple, ou le report erroné [d'arguments fallacieux](https://en.wikipedia.org/wiki/List_of_fallacies),
+ou encore le however qui est utilisé à tord et à travers),
+la seule solution est de recommencer un arbre.
+
+Mais l'idée est bonne, et peut-être utilisée pour des discussions.
+Comme souvent, juste jeter ça à une communauté publique n'est pas une bonne solution, sans les outils d'administration adaptés.
+
+Mais bon, comme c'est du libre, libre à vous de déployer ça sur votre serveur :)

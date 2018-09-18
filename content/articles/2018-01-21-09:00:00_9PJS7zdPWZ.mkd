@@ -1,0 +1,12 @@
+Title: Markovify: generation and walk of markov chains
+Date: 2018-01-21-09:00:00
+Tags: data structure, info, library, python
+Author: href="https://github.com/jsvine/markovify"
+Slug: 9PJS7zdPWZ
+Lang: fr
+status: published
+
+Voilà une lib qui est rigolote !
+
+Depuis le temps que je voulais la faire, quelqu'un l'a faite à ma place,
+et apparemment de manière super efficace.

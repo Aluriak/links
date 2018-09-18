@@ -1,0 +1,18 @@
+Title: Scott Kelly’s medical monitoring has spawned some horrific press coverage
+Date: 2018-03-18-09:00:02
+Tags: science, space, text
+Author: href="https://arstechnica.com/science/2018/03/scott-kellys-medical-monitoring-has-spawned-some-horrific-press-coverage/"
+Slug: LN4n9nAAME
+Lang: fr
+status: published
+
+Comme souvent, les résultats scientifiques sont déformés par les médias. Là où ça devient inquiétant,
+c'est que ce sont les faits de base qui sont déformés : les changements induits par la modification du vocabulaire utilisé rendent les articles complètement **faux**.
+
+Le changement d'expression des gènes étudié (et attendu lors d'un changement d'environnement) se transforme en changements
+dans le génomes voir même carrément en changements dans le code génétique. Fantasque.
+On peut se demander si les médias sont seulement capables de relever des faits : dans ce cas là, c'est pas bien compliqué,
+il suffisait de conserver le vocabulaire de l'article scientifique et de demander à un biologiste
+pour expliquer en 5 minutes ce que ça implique, un changement d'expression de gène.
+
+Du coups, quand c'est plus compliqué que recopier un fait, comment est la qualité de l'information reçue ?

@@ -1,0 +1,13 @@
+Title: How the Apollo Spacecraft works
+Date: 2018-03-01-09:00:00
+Tags: space, video
+Author: href="https://www.youtube.com/watch?v=8dpkmUjJ8xU"
+Slug: 3VvG9kR9F1
+Lang: fr
+status: published
+
+Explications claires et simple de la mission apollo 11, et des suivantes, en trois vidéos.
+En [troi](https://www.youtube.com/watch?v=8dpkmUjJ8xU)[s par](https://www.youtube.com/watch?v=tl1KPjxKVqk)[ties](https://www.youtube.com/watch?v=qt_xoCXLXnI).
+
+Pour une démo un peu moins dessinée, voir [cette retransmission](https://www.youtube.com/watch?v=7ipCXpkSOwc)
+d'une mission sur [KSP](https://kerbalspaceprogram.com/) avec le mod [FASA](https://kerbalx.com/mods/fasa).

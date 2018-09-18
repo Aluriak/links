@@ -1,0 +1,24 @@
+Title: Autobiography of a blind programmer, and about ancient coders
+Date: 2018-03-06-09:00:01
+Tags: humans, info
+Author: href="https://www.parhamdoustdar.com/2016/03/27/autobiography-blind-programmer/"
+Slug: cgUxkEznBr
+Lang: fr
+status: published
+
+L'histoire côté informatique d'un aveugle, lancée depuis [une question Quora](https://www.quora.com/How-does-a-visually-impaired-computer-programmer-program)
+qui nous apprend que les aveugles usent surtout de leur mémoire pour coder. Il y a aussi plein de lien si la question intéresse.
+La biographie est touchante, et fait écho avec celle de tous les codeurs qui ont commencé avec une ressource hyper-technique dans leur jeunesse :
+après l'effet woaw, on veut faire un jeu génial pour pouvoir y jouer avec les copains (et on en chie pendant deux semaines pour juste faire un tetris).
+
+La nécessité de se souvenir du code pour travailler dessus peut sembler complètement folle, voire disqualifiante.
+Pourtant, c'est ainsi que l'on codait dans les premières années de l'informatique, avant les PC perso
+et leurs interfaces toutes propres qui nécessitent une carte graphique pour déterminer la couleur d'un pixel.
+À ce propos, voir notamment [cette réponse de SO](https://retrocomputing.stackexchange.com/questions/5341/how-did-people-use-ed),
+avec cette histoire folle d'un dévelopeur qui connaît un projet d'un million de lignes, à la ligne près.
+
+Il ne s'agit pas d'aduler les développeurs d'antan, ou ceux qui aujourd'hui travaillent
+de la même façon qu'eux pour différentes raisons, mais bien de se souvenir que l'informatique évolue suffisamment
+vite pour que des choses qui nous semblent évidentes aujourd'hui seront complètement oubliées demain.
+
+Par exemple, les capacités de notre cerveau en matière de mémorisation de base de code.

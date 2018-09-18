@@ -1,0 +1,14 @@
+Title: Qui veut cadenasser le web ?
+Date: 2018-02-18-09:00:00
+Tags: libre, politic, text
+Author: href="https://framablog.org/2017/12/11/qui-veut-cadenasser-le-web/"
+Slug: mm3o74mwqO
+Lang: fr
+status: published
+
+Après une intro rapellant bien tous les concepts importants autour du W3C et des DRM,
+l'auteur explique bien les évènements qui ont conduit
+[l'EFF à quitter le W3C](https://www.eff.org/deeplinks/2017/09/open-letter-w3c-director-ceo-team-and-membership).
+
+Pas grand chose d'autre à dire, sinon qu'effectivement, ça explique tout très bien.
+Attendez-vous à perdre un peu de votre foi en l'humanité :)

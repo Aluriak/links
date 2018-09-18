@@ -1,0 +1,13 @@
+Title: Why programmers work at night
+Date: 2018-02-02-09:00:00
+Tags: info, text
+Author: href="https://swizec.com/blog/why-programmers-work-at-night/swizec/3198"
+Slug: 9Paydfw9gh
+Lang: fr
+status: published
+
+Je me suis reconnu dans toutes les raisons présentées.
+
+C'est pas pour rien que j'utilise [redshift](http://jonls.dk/redshift/) depuis longtemps. Ça aide vraiment pour ressentir le coups de fatigue, ça force à se coucher.
+
+Cela dit, je ne fais plus de longues nuits de code aussi régulièrement qu'avant.

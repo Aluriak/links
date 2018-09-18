@@ -1,0 +1,9 @@
+Title: Convince people not to share their password with trusted others
+Date: 2018-02-14-09:00:01
+Tags: info, security, social
+Author: href="https://security.stackexchange.com/a/137852"
+Slug: uZ0Op3pjlP
+Lang: fr
+status: published
+
+

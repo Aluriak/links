@@ -1,0 +1,12 @@
+Title: Chaînes d'Histoire françaises (sur youtube)
+Date: 2018-01-19-09:00:00
+Tags: multilinks, video, youtube
+Author: href="https://www.youtube.com/user/notabenemovies" target="_blank" onclick="window.open('https://www.youtube.com/channel/UCKjDY4joMPcoRMmd-G1yz1Q');window.open('https://www.youtube.com/channel/UCzj9-ZfpJ74vYv1RZzAWTVg');window.open('https://www.youtube.com/watch?v=8GGG4TjcDFQ');"
+Slug: gbV5I97lYp
+Lang: fr
+status: published
+
+L'Histoire est un sujet très abordé sur internet, peut-être même plus que les sciences physiques, biologiques et mathématiques.
+
+Voilà quelques chaînes (françaises, cocorico) de thésards et autres passionnés qui parlent, pêle-mêle, de guerre des Gaules,
+statues antiques, de Roy et dynasties, de guerres, et autres trucs qu'on a pas toujours appris à l'école.

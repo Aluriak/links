@@ -1,0 +1,15 @@
+Title: Learn TLA+: a simple tutorial, toward an implementation of JS/Redux
+Date: 2018-03-15-09:00:01
+Tags: text, tla+, tuto
+Author: href="https://learntla.com/introduction/"
+Slug: 76BziSDtwe
+Lang: fr
+status: published
+
+Plutôt que commencer par [les vidéos de référence](https://lucas.bourneuf.net/links/xxZ17fYX9o.html),
+il est intéressant de se pencher sur ce tutoriel qui part des bases
+à grand renfort d'image et de simplicité.
+
+Une fois le tuto lu, il sera facile de comprendre les autres tuto du même auteur,
+à propos de l'implémentation de [Redux en TLA+](https://www.hillelwayne.com/post/tla-redux/)
+ou [la modélisation d'un déploiement](https://www.hillelwayne.com/post/modeling-deployments/).
